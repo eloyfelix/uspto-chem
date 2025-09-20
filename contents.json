@@ -1,5 +1,818 @@
 {
   "applications": {
+    "2014": {
+      "01": [
+        "https://eloyfelix.github.io/uspto-chem-2014/applications/01/I20140102.json",
+        "https://eloyfelix.github.io/uspto-chem-2014/applications/01/I20140109.json",
+        "https://eloyfelix.github.io/uspto-chem-2014/applications/01/I20140116.json",
+        "https://eloyfelix.github.io/uspto-chem-2014/applications/01/I20140123.json",
+        "https://eloyfelix.github.io/uspto-chem-2014/applications/01/I20140130.json"
+      ],
+      "02": [
+        "https://eloyfelix.github.io/uspto-chem-2014/applications/02/I20140206.json",
+        "https://eloyfelix.github.io/uspto-chem-2014/applications/02/I20140213.json",
+        "https://eloyfelix.github.io/uspto-chem-2014/applications/02/I20140220.json",
+        "https://eloyfelix.github.io/uspto-chem-2014/applications/02/I20140227.json"
+      ],
+      "03": [
+        "https://eloyfelix.github.io/uspto-chem-2014/applications/03/I20140306.json",
+        "https://eloyfelix.github.io/uspto-chem-2014/applications/03/I20140313.json",
+        "https://eloyfelix.github.io/uspto-chem-2014/applications/03/I20140320.json",
+        "https://eloyfelix.github.io/uspto-chem-2014/applications/03/I20140327.json"
+      ],
+      "04": [
+        "https://eloyfelix.github.io/uspto-chem-2014/applications/04/I20140403.json",
+        "https://eloyfelix.github.io/uspto-chem-2014/applications/04/I20140410.json",
+        "https://eloyfelix.github.io/uspto-chem-2014/applications/04/I20140417.json",
+        "https://eloyfelix.github.io/uspto-chem-2014/applications/04/I20140424.json"
+      ],
+      "05": [
+        "https://eloyfelix.github.io/uspto-chem-2014/applications/05/I20140501.json",
+        "https://eloyfelix.github.io/uspto-chem-2014/applications/05/I20140508.json",
+        "https://eloyfelix.github.io/uspto-chem-2014/applications/05/I20140515.json",
+        "https://eloyfelix.github.io/uspto-chem-2014/applications/05/I20140522.json",
+        "https://eloyfelix.github.io/uspto-chem-2014/applications/05/I20140529.json"
+      ],
+      "06": [
+        "https://eloyfelix.github.io/uspto-chem-2014/applications/06/I20140605.json",
+        "https://eloyfelix.github.io/uspto-chem-2014/applications/06/I20140612.json",
+        "https://eloyfelix.github.io/uspto-chem-2014/applications/06/I20140619.json",
+        "https://eloyfelix.github.io/uspto-chem-2014/applications/06/I20140626.json"
+      ],
+      "07": [
+        "https://eloyfelix.github.io/uspto-chem-2014/applications/07/I20140703.json",
+        "https://eloyfelix.github.io/uspto-chem-2014/applications/07/I20140710.json",
+        "https://eloyfelix.github.io/uspto-chem-2014/applications/07/I20140717.json",
+        "https://eloyfelix.github.io/uspto-chem-2014/applications/07/I20140724.json",
+        "https://eloyfelix.github.io/uspto-chem-2014/applications/07/I20140731.json"
+      ],
+      "08": [
+        "https://eloyfelix.github.io/uspto-chem-2014/applications/08/I20140807.json",
+        "https://eloyfelix.github.io/uspto-chem-2014/applications/08/I20140814.json",
+        "https://eloyfelix.github.io/uspto-chem-2014/applications/08/I20140821.json",
+        "https://eloyfelix.github.io/uspto-chem-2014/applications/08/I20140828.json"
+      ],
+      "09": [
+        "https://eloyfelix.github.io/uspto-chem-2014/applications/09/I20140904.json",
+        "https://eloyfelix.github.io/uspto-chem-2014/applications/09/I20140911.json",
+        "https://eloyfelix.github.io/uspto-chem-2014/applications/09/I20140918.json",
+        "https://eloyfelix.github.io/uspto-chem-2014/applications/09/I20140925.json"
+      ],
+      "10": [
+        "https://eloyfelix.github.io/uspto-chem-2014/applications/10/I20141002.json",
+        "https://eloyfelix.github.io/uspto-chem-2014/applications/10/I20141009.json",
+        "https://eloyfelix.github.io/uspto-chem-2014/applications/10/I20141016.json",
+        "https://eloyfelix.github.io/uspto-chem-2014/applications/10/I20141023.json",
+        "https://eloyfelix.github.io/uspto-chem-2014/applications/10/I20141030.json"
+      ],
+      "11": [
+        "https://eloyfelix.github.io/uspto-chem-2014/applications/11/I20141106.json",
+        "https://eloyfelix.github.io/uspto-chem-2014/applications/11/I20141113.json",
+        "https://eloyfelix.github.io/uspto-chem-2014/applications/11/I20141120.json",
+        "https://eloyfelix.github.io/uspto-chem-2014/applications/11/I20141127.json"
+      ],
+      "12": [
+        "https://eloyfelix.github.io/uspto-chem-2014/applications/12/I20141204.json",
+        "https://eloyfelix.github.io/uspto-chem-2014/applications/12/I20141211.json",
+        "https://eloyfelix.github.io/uspto-chem-2014/applications/12/I20141218.json",
+        "https://eloyfelix.github.io/uspto-chem-2014/applications/12/I20141225.json"
+      ]
+    },
+    "2015": {
+      "01": [
+        "https://eloyfelix.github.io/uspto-chem-2015/applications/01/I20150101.json",
+        "https://eloyfelix.github.io/uspto-chem-2015/applications/01/I20150108.json",
+        "https://eloyfelix.github.io/uspto-chem-2015/applications/01/I20150115.json",
+        "https://eloyfelix.github.io/uspto-chem-2015/applications/01/I20150122.json",
+        "https://eloyfelix.github.io/uspto-chem-2015/applications/01/I20150129.json"
+      ],
+      "02": [
+        "https://eloyfelix.github.io/uspto-chem-2015/applications/02/I20150205.json",
+        "https://eloyfelix.github.io/uspto-chem-2015/applications/02/I20150212.json",
+        "https://eloyfelix.github.io/uspto-chem-2015/applications/02/I20150219.json",
+        "https://eloyfelix.github.io/uspto-chem-2015/applications/02/I20150226.json"
+      ],
+      "03": [
+        "https://eloyfelix.github.io/uspto-chem-2015/applications/03/I20150305.json",
+        "https://eloyfelix.github.io/uspto-chem-2015/applications/03/I20150312.json",
+        "https://eloyfelix.github.io/uspto-chem-2015/applications/03/I20150319.json",
+        "https://eloyfelix.github.io/uspto-chem-2015/applications/03/I20150326.json"
+      ],
+      "04": [
+        "https://eloyfelix.github.io/uspto-chem-2015/applications/04/I20150402.json",
+        "https://eloyfelix.github.io/uspto-chem-2015/applications/04/I20150409.json",
+        "https://eloyfelix.github.io/uspto-chem-2015/applications/04/I20150416.json",
+        "https://eloyfelix.github.io/uspto-chem-2015/applications/04/I20150423.json",
+        "https://eloyfelix.github.io/uspto-chem-2015/applications/04/I20150430.json"
+      ],
+      "05": [
+        "https://eloyfelix.github.io/uspto-chem-2015/applications/05/I20150507.json",
+        "https://eloyfelix.github.io/uspto-chem-2015/applications/05/I20150514.json",
+        "https://eloyfelix.github.io/uspto-chem-2015/applications/05/I20150521.json",
+        "https://eloyfelix.github.io/uspto-chem-2015/applications/05/I20150528.json"
+      ],
+      "06": [
+        "https://eloyfelix.github.io/uspto-chem-2015/applications/06/I20150604.json",
+        "https://eloyfelix.github.io/uspto-chem-2015/applications/06/I20150611.json",
+        "https://eloyfelix.github.io/uspto-chem-2015/applications/06/I20150618.json",
+        "https://eloyfelix.github.io/uspto-chem-2015/applications/06/I20150625.json"
+      ],
+      "07": [
+        "https://eloyfelix.github.io/uspto-chem-2015/applications/07/I20150702.json",
+        "https://eloyfelix.github.io/uspto-chem-2015/applications/07/I20150709.json",
+        "https://eloyfelix.github.io/uspto-chem-2015/applications/07/I20150716.json",
+        "https://eloyfelix.github.io/uspto-chem-2015/applications/07/I20150723.json",
+        "https://eloyfelix.github.io/uspto-chem-2015/applications/07/I20150730.json"
+      ],
+      "08": [
+        "https://eloyfelix.github.io/uspto-chem-2015/applications/08/I20150806.json",
+        "https://eloyfelix.github.io/uspto-chem-2015/applications/08/I20150813.json",
+        "https://eloyfelix.github.io/uspto-chem-2015/applications/08/I20150820.json",
+        "https://eloyfelix.github.io/uspto-chem-2015/applications/08/I20150827.json"
+      ],
+      "09": [
+        "https://eloyfelix.github.io/uspto-chem-2015/applications/09/I20150903.json",
+        "https://eloyfelix.github.io/uspto-chem-2015/applications/09/I20150910.json",
+        "https://eloyfelix.github.io/uspto-chem-2015/applications/09/I20150917.json",
+        "https://eloyfelix.github.io/uspto-chem-2015/applications/09/I20150924.json"
+      ],
+      "10": [
+        "https://eloyfelix.github.io/uspto-chem-2015/applications/10/I20151001.json",
+        "https://eloyfelix.github.io/uspto-chem-2015/applications/10/I20151008.json",
+        "https://eloyfelix.github.io/uspto-chem-2015/applications/10/I20151015.json",
+        "https://eloyfelix.github.io/uspto-chem-2015/applications/10/I20151022.json",
+        "https://eloyfelix.github.io/uspto-chem-2015/applications/10/I20151029.json"
+      ],
+      "11": [
+        "https://eloyfelix.github.io/uspto-chem-2015/applications/11/I20151105.json",
+        "https://eloyfelix.github.io/uspto-chem-2015/applications/11/I20151112.json",
+        "https://eloyfelix.github.io/uspto-chem-2015/applications/11/I20151119.json",
+        "https://eloyfelix.github.io/uspto-chem-2015/applications/11/I20151126.json"
+      ],
+      "12": [
+        "https://eloyfelix.github.io/uspto-chem-2015/applications/12/I20151203.json",
+        "https://eloyfelix.github.io/uspto-chem-2015/applications/12/I20151210.json",
+        "https://eloyfelix.github.io/uspto-chem-2015/applications/12/I20151217.json",
+        "https://eloyfelix.github.io/uspto-chem-2015/applications/12/I20151224.json",
+        "https://eloyfelix.github.io/uspto-chem-2015/applications/12/I20151231.json"
+      ]
+    },
+    "2016": {
+      "01": [
+        "https://eloyfelix.github.io/uspto-chem-2016/applications/01/I20160107.json",
+        "https://eloyfelix.github.io/uspto-chem-2016/applications/01/I20160114.json",
+        "https://eloyfelix.github.io/uspto-chem-2016/applications/01/I20160121.json",
+        "https://eloyfelix.github.io/uspto-chem-2016/applications/01/I20160128.json"
+      ],
+      "02": [
+        "https://eloyfelix.github.io/uspto-chem-2016/applications/02/I20160204.json",
+        "https://eloyfelix.github.io/uspto-chem-2016/applications/02/I20160211.json",
+        "https://eloyfelix.github.io/uspto-chem-2016/applications/02/I20160218.json",
+        "https://eloyfelix.github.io/uspto-chem-2016/applications/02/I20160225.json"
+      ],
+      "03": [
+        "https://eloyfelix.github.io/uspto-chem-2016/applications/03/I20160303.json",
+        "https://eloyfelix.github.io/uspto-chem-2016/applications/03/I20160310.json",
+        "https://eloyfelix.github.io/uspto-chem-2016/applications/03/I20160317.json",
+        "https://eloyfelix.github.io/uspto-chem-2016/applications/03/I20160324.json",
+        "https://eloyfelix.github.io/uspto-chem-2016/applications/03/I20160331.json"
+      ],
+      "04": [
+        "https://eloyfelix.github.io/uspto-chem-2016/applications/04/I20160407.json",
+        "https://eloyfelix.github.io/uspto-chem-2016/applications/04/I20160414.json",
+        "https://eloyfelix.github.io/uspto-chem-2016/applications/04/I20160421.json",
+        "https://eloyfelix.github.io/uspto-chem-2016/applications/04/I20160428.json"
+      ],
+      "05": [
+        "https://eloyfelix.github.io/uspto-chem-2016/applications/05/I20160505.json",
+        "https://eloyfelix.github.io/uspto-chem-2016/applications/05/I20160512.json",
+        "https://eloyfelix.github.io/uspto-chem-2016/applications/05/I20160519.json",
+        "https://eloyfelix.github.io/uspto-chem-2016/applications/05/I20160526.json"
+      ],
+      "06": [
+        "https://eloyfelix.github.io/uspto-chem-2016/applications/06/I20160602.json",
+        "https://eloyfelix.github.io/uspto-chem-2016/applications/06/I20160609.json",
+        "https://eloyfelix.github.io/uspto-chem-2016/applications/06/I20160616.json",
+        "https://eloyfelix.github.io/uspto-chem-2016/applications/06/I20160623.json",
+        "https://eloyfelix.github.io/uspto-chem-2016/applications/06/I20160630.json"
+      ],
+      "07": [
+        "https://eloyfelix.github.io/uspto-chem-2016/applications/07/I20160707.json",
+        "https://eloyfelix.github.io/uspto-chem-2016/applications/07/I20160714.json",
+        "https://eloyfelix.github.io/uspto-chem-2016/applications/07/I20160721.json",
+        "https://eloyfelix.github.io/uspto-chem-2016/applications/07/I20160728.json"
+      ],
+      "08": [
+        "https://eloyfelix.github.io/uspto-chem-2016/applications/08/I20160804.json",
+        "https://eloyfelix.github.io/uspto-chem-2016/applications/08/I20160811.json",
+        "https://eloyfelix.github.io/uspto-chem-2016/applications/08/I20160818.json",
+        "https://eloyfelix.github.io/uspto-chem-2016/applications/08/I20160825.json"
+      ],
+      "09": [
+        "https://eloyfelix.github.io/uspto-chem-2016/applications/09/I20160901.json",
+        "https://eloyfelix.github.io/uspto-chem-2016/applications/09/I20160908.json",
+        "https://eloyfelix.github.io/uspto-chem-2016/applications/09/I20160915.json",
+        "https://eloyfelix.github.io/uspto-chem-2016/applications/09/I20160922.json",
+        "https://eloyfelix.github.io/uspto-chem-2016/applications/09/I20160929.json"
+      ],
+      "10": [
+        "https://eloyfelix.github.io/uspto-chem-2016/applications/10/I20161006.json",
+        "https://eloyfelix.github.io/uspto-chem-2016/applications/10/I20161013.json",
+        "https://eloyfelix.github.io/uspto-chem-2016/applications/10/I20161020.json",
+        "https://eloyfelix.github.io/uspto-chem-2016/applications/10/I20161027.json"
+      ],
+      "11": [
+        "https://eloyfelix.github.io/uspto-chem-2016/applications/11/I20161103.json",
+        "https://eloyfelix.github.io/uspto-chem-2016/applications/11/I20161110.json",
+        "https://eloyfelix.github.io/uspto-chem-2016/applications/11/I20161117.json",
+        "https://eloyfelix.github.io/uspto-chem-2016/applications/11/I20161124.json"
+      ],
+      "12": [
+        "https://eloyfelix.github.io/uspto-chem-2016/applications/12/I20161201.json",
+        "https://eloyfelix.github.io/uspto-chem-2016/applications/12/I20161208.json",
+        "https://eloyfelix.github.io/uspto-chem-2016/applications/12/I20161215.json",
+        "https://eloyfelix.github.io/uspto-chem-2016/applications/12/I20161222.json",
+        "https://eloyfelix.github.io/uspto-chem-2016/applications/12/I20161229.json"
+      ]
+    },
+    "2017": {
+      "01": [
+        "https://eloyfelix.github.io/uspto-chem-2017/applications/01/I20170105.json",
+        "https://eloyfelix.github.io/uspto-chem-2017/applications/01/I20170112.json",
+        "https://eloyfelix.github.io/uspto-chem-2017/applications/01/I20170119.json",
+        "https://eloyfelix.github.io/uspto-chem-2017/applications/01/I20170126.json"
+      ],
+      "02": [
+        "https://eloyfelix.github.io/uspto-chem-2017/applications/02/I20170202.json",
+        "https://eloyfelix.github.io/uspto-chem-2017/applications/02/I20170209.json",
+        "https://eloyfelix.github.io/uspto-chem-2017/applications/02/I20170216.json",
+        "https://eloyfelix.github.io/uspto-chem-2017/applications/02/I20170223.json"
+      ],
+      "03": [
+        "https://eloyfelix.github.io/uspto-chem-2017/applications/03/I20170302.json",
+        "https://eloyfelix.github.io/uspto-chem-2017/applications/03/I20170309.json",
+        "https://eloyfelix.github.io/uspto-chem-2017/applications/03/I20170316.json",
+        "https://eloyfelix.github.io/uspto-chem-2017/applications/03/I20170323.json",
+        "https://eloyfelix.github.io/uspto-chem-2017/applications/03/I20170330.json"
+      ],
+      "04": [
+        "https://eloyfelix.github.io/uspto-chem-2017/applications/04/I20170406.json",
+        "https://eloyfelix.github.io/uspto-chem-2017/applications/04/I20170413.json",
+        "https://eloyfelix.github.io/uspto-chem-2017/applications/04/I20170420.json",
+        "https://eloyfelix.github.io/uspto-chem-2017/applications/04/I20170427.json"
+      ],
+      "05": [
+        "https://eloyfelix.github.io/uspto-chem-2017/applications/05/I20170504.json",
+        "https://eloyfelix.github.io/uspto-chem-2017/applications/05/I20170511.json",
+        "https://eloyfelix.github.io/uspto-chem-2017/applications/05/I20170518.json",
+        "https://eloyfelix.github.io/uspto-chem-2017/applications/05/I20170525.json"
+      ],
+      "06": [
+        "https://eloyfelix.github.io/uspto-chem-2017/applications/06/I20170601.json",
+        "https://eloyfelix.github.io/uspto-chem-2017/applications/06/I20170608.json",
+        "https://eloyfelix.github.io/uspto-chem-2017/applications/06/I20170615.json",
+        "https://eloyfelix.github.io/uspto-chem-2017/applications/06/I20170622.json",
+        "https://eloyfelix.github.io/uspto-chem-2017/applications/06/I20170629.json"
+      ],
+      "07": [
+        "https://eloyfelix.github.io/uspto-chem-2017/applications/07/I20170706.json",
+        "https://eloyfelix.github.io/uspto-chem-2017/applications/07/I20170713.json",
+        "https://eloyfelix.github.io/uspto-chem-2017/applications/07/I20170720.json",
+        "https://eloyfelix.github.io/uspto-chem-2017/applications/07/I20170727.json"
+      ],
+      "08": [
+        "https://eloyfelix.github.io/uspto-chem-2017/applications/08/I20170803.json",
+        "https://eloyfelix.github.io/uspto-chem-2017/applications/08/I20170810.json",
+        "https://eloyfelix.github.io/uspto-chem-2017/applications/08/I20170817.json",
+        "https://eloyfelix.github.io/uspto-chem-2017/applications/08/I20170824.json",
+        "https://eloyfelix.github.io/uspto-chem-2017/applications/08/I20170831.json"
+      ],
+      "09": [
+        "https://eloyfelix.github.io/uspto-chem-2017/applications/09/I20170907.json",
+        "https://eloyfelix.github.io/uspto-chem-2017/applications/09/I20170914.json",
+        "https://eloyfelix.github.io/uspto-chem-2017/applications/09/I20170921.json",
+        "https://eloyfelix.github.io/uspto-chem-2017/applications/09/I20170928.json"
+      ],
+      "10": [
+        "https://eloyfelix.github.io/uspto-chem-2017/applications/10/I20171005.json",
+        "https://eloyfelix.github.io/uspto-chem-2017/applications/10/I20171012.json",
+        "https://eloyfelix.github.io/uspto-chem-2017/applications/10/I20171019.json",
+        "https://eloyfelix.github.io/uspto-chem-2017/applications/10/I20171026.json"
+      ],
+      "11": [
+        "https://eloyfelix.github.io/uspto-chem-2017/applications/11/I20171102.json",
+        "https://eloyfelix.github.io/uspto-chem-2017/applications/11/I20171109.json",
+        "https://eloyfelix.github.io/uspto-chem-2017/applications/11/I20171116.json",
+        "https://eloyfelix.github.io/uspto-chem-2017/applications/11/I20171123.json",
+        "https://eloyfelix.github.io/uspto-chem-2017/applications/11/I20171130.json"
+      ],
+      "12": [
+        "https://eloyfelix.github.io/uspto-chem-2017/applications/12/I20171207.json",
+        "https://eloyfelix.github.io/uspto-chem-2017/applications/12/I20171214.json",
+        "https://eloyfelix.github.io/uspto-chem-2017/applications/12/I20171221.json",
+        "https://eloyfelix.github.io/uspto-chem-2017/applications/12/I20171228.json"
+      ]
+    },
+    "2018": {
+      "01": [
+        "https://eloyfelix.github.io/uspto-chem-2018/applications/01/I20180104.json",
+        "https://eloyfelix.github.io/uspto-chem-2018/applications/01/I20180111.json",
+        "https://eloyfelix.github.io/uspto-chem-2018/applications/01/I20180118.json",
+        "https://eloyfelix.github.io/uspto-chem-2018/applications/01/I20180125.json"
+      ],
+      "02": [
+        "https://eloyfelix.github.io/uspto-chem-2018/applications/02/I20180201.json",
+        "https://eloyfelix.github.io/uspto-chem-2018/applications/02/I20180208.json",
+        "https://eloyfelix.github.io/uspto-chem-2018/applications/02/I20180215.json",
+        "https://eloyfelix.github.io/uspto-chem-2018/applications/02/I20180222.json"
+      ],
+      "03": [
+        "https://eloyfelix.github.io/uspto-chem-2018/applications/03/I20180301.json",
+        "https://eloyfelix.github.io/uspto-chem-2018/applications/03/I20180308.json",
+        "https://eloyfelix.github.io/uspto-chem-2018/applications/03/I20180315.json",
+        "https://eloyfelix.github.io/uspto-chem-2018/applications/03/I20180322.json",
+        "https://eloyfelix.github.io/uspto-chem-2018/applications/03/I20180329.json"
+      ],
+      "04": [
+        "https://eloyfelix.github.io/uspto-chem-2018/applications/04/I20180405.json",
+        "https://eloyfelix.github.io/uspto-chem-2018/applications/04/I20180412.json",
+        "https://eloyfelix.github.io/uspto-chem-2018/applications/04/I20180419.json",
+        "https://eloyfelix.github.io/uspto-chem-2018/applications/04/I20180426.json"
+      ],
+      "05": [
+        "https://eloyfelix.github.io/uspto-chem-2018/applications/05/I20180503.json",
+        "https://eloyfelix.github.io/uspto-chem-2018/applications/05/I20180510.json",
+        "https://eloyfelix.github.io/uspto-chem-2018/applications/05/I20180517.json",
+        "https://eloyfelix.github.io/uspto-chem-2018/applications/05/I20180524.json",
+        "https://eloyfelix.github.io/uspto-chem-2018/applications/05/I20180531.json"
+      ],
+      "06": [
+        "https://eloyfelix.github.io/uspto-chem-2018/applications/06/I20180607.json",
+        "https://eloyfelix.github.io/uspto-chem-2018/applications/06/I20180614.json",
+        "https://eloyfelix.github.io/uspto-chem-2018/applications/06/I20180621.json",
+        "https://eloyfelix.github.io/uspto-chem-2018/applications/06/I20180628.json"
+      ],
+      "07": [
+        "https://eloyfelix.github.io/uspto-chem-2018/applications/07/I20180705.json",
+        "https://eloyfelix.github.io/uspto-chem-2018/applications/07/I20180712.json",
+        "https://eloyfelix.github.io/uspto-chem-2018/applications/07/I20180719.json",
+        "https://eloyfelix.github.io/uspto-chem-2018/applications/07/I20180726.json"
+      ],
+      "08": [
+        "https://eloyfelix.github.io/uspto-chem-2018/applications/08/I20180802.json",
+        "https://eloyfelix.github.io/uspto-chem-2018/applications/08/I20180809.json",
+        "https://eloyfelix.github.io/uspto-chem-2018/applications/08/I20180816.json",
+        "https://eloyfelix.github.io/uspto-chem-2018/applications/08/I20180823.json",
+        "https://eloyfelix.github.io/uspto-chem-2018/applications/08/I20180830.json"
+      ],
+      "09": [
+        "https://eloyfelix.github.io/uspto-chem-2018/applications/09/I20180906.json",
+        "https://eloyfelix.github.io/uspto-chem-2018/applications/09/I20180913.json",
+        "https://eloyfelix.github.io/uspto-chem-2018/applications/09/I20180920.json",
+        "https://eloyfelix.github.io/uspto-chem-2018/applications/09/I20180927.json"
+      ],
+      "10": [
+        "https://eloyfelix.github.io/uspto-chem-2018/applications/10/I20181004.json",
+        "https://eloyfelix.github.io/uspto-chem-2018/applications/10/I20181011.json",
+        "https://eloyfelix.github.io/uspto-chem-2018/applications/10/I20181018.json",
+        "https://eloyfelix.github.io/uspto-chem-2018/applications/10/I20181025.json"
+      ],
+      "11": [
+        "https://eloyfelix.github.io/uspto-chem-2018/applications/11/I20181101.json",
+        "https://eloyfelix.github.io/uspto-chem-2018/applications/11/I20181108.json",
+        "https://eloyfelix.github.io/uspto-chem-2018/applications/11/I20181115.json",
+        "https://eloyfelix.github.io/uspto-chem-2018/applications/11/I20181122.json",
+        "https://eloyfelix.github.io/uspto-chem-2018/applications/11/I20181129.json"
+      ],
+      "12": [
+        "https://eloyfelix.github.io/uspto-chem-2018/applications/12/I20181206.json",
+        "https://eloyfelix.github.io/uspto-chem-2018/applications/12/I20181213.json",
+        "https://eloyfelix.github.io/uspto-chem-2018/applications/12/I20181220.json",
+        "https://eloyfelix.github.io/uspto-chem-2018/applications/12/I20181227.json"
+      ]
+    },
+    "2019": {
+      "01": [
+        "https://eloyfelix.github.io/uspto-chem-2019/applications/01/I20190103.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/applications/01/I20190110.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/applications/01/I20190117.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/applications/01/I20190124.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/applications/01/I20190131.json"
+      ],
+      "02": [
+        "https://eloyfelix.github.io/uspto-chem-2019/applications/02/I20190207.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/applications/02/I20190214.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/applications/02/I20190221.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/applications/02/I20190228.json"
+      ],
+      "03": [
+        "https://eloyfelix.github.io/uspto-chem-2019/applications/03/I20190307.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/applications/03/I20190314.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/applications/03/I20190321.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/applications/03/I20190328.json"
+      ],
+      "04": [
+        "https://eloyfelix.github.io/uspto-chem-2019/applications/04/I20190404.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/applications/04/I20190411.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/applications/04/I20190418.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/applications/04/I20190425.json"
+      ],
+      "05": [
+        "https://eloyfelix.github.io/uspto-chem-2019/applications/05/I20190502.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/applications/05/I20190509.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/applications/05/I20190516.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/applications/05/I20190523.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/applications/05/I20190530.json"
+      ],
+      "06": [
+        "https://eloyfelix.github.io/uspto-chem-2019/applications/06/I20190606.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/applications/06/I20190613.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/applications/06/I20190620.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/applications/06/I20190627.json"
+      ],
+      "07": [
+        "https://eloyfelix.github.io/uspto-chem-2019/applications/07/I20190704.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/applications/07/I20190711.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/applications/07/I20190718.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/applications/07/I20190725.json"
+      ],
+      "08": [
+        "https://eloyfelix.github.io/uspto-chem-2019/applications/08/I20190801.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/applications/08/I20190801_r1.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/applications/08/I20190808.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/applications/08/I20190808_r1.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/applications/08/I20190815.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/applications/08/I20190815_r1.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/applications/08/I20190815_r2.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/applications/08/I20190822.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/applications/08/I20190822_r1.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/applications/08/I20190822_r2.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/applications/08/I20190829.json"
+      ],
+      "09": [
+        "https://eloyfelix.github.io/uspto-chem-2019/applications/09/I20190905.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/applications/09/I20190912.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/applications/09/I20190919.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/applications/09/I20190926.json"
+      ],
+      "10": [
+        "https://eloyfelix.github.io/uspto-chem-2019/applications/10/I20191003.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/applications/10/I20191010.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/applications/10/I20191017.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/applications/10/I20191024.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/applications/10/I20191031.json"
+      ],
+      "11": [
+        "https://eloyfelix.github.io/uspto-chem-2019/applications/11/I20191107.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/applications/11/I20191114.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/applications/11/I20191121.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/applications/11/I20191128.json"
+      ],
+      "12": [
+        "https://eloyfelix.github.io/uspto-chem-2019/applications/12/I20191205.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/applications/12/I20191212.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/applications/12/I20191219.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/applications/12/I20191226.json"
+      ]
+    },
+    "2020": {
+      "01": [
+        "https://eloyfelix.github.io/uspto-chem-2020/applications/01/I20200102.json",
+        "https://eloyfelix.github.io/uspto-chem-2020/applications/01/I20200109.json",
+        "https://eloyfelix.github.io/uspto-chem-2020/applications/01/I20200116.json",
+        "https://eloyfelix.github.io/uspto-chem-2020/applications/01/I20200123.json",
+        "https://eloyfelix.github.io/uspto-chem-2020/applications/01/I20200130.json"
+      ],
+      "02": [
+        "https://eloyfelix.github.io/uspto-chem-2020/applications/02/I20200206.json",
+        "https://eloyfelix.github.io/uspto-chem-2020/applications/02/I20200213.json",
+        "https://eloyfelix.github.io/uspto-chem-2020/applications/02/I20200220.json",
+        "https://eloyfelix.github.io/uspto-chem-2020/applications/02/I20200227.json"
+      ],
+      "03": [
+        "https://eloyfelix.github.io/uspto-chem-2020/applications/03/I20200305.json",
+        "https://eloyfelix.github.io/uspto-chem-2020/applications/03/I20200312.json",
+        "https://eloyfelix.github.io/uspto-chem-2020/applications/03/I20200319.json",
+        "https://eloyfelix.github.io/uspto-chem-2020/applications/03/I20200326.json"
+      ],
+      "04": [
+        "https://eloyfelix.github.io/uspto-chem-2020/applications/04/I20200402.json",
+        "https://eloyfelix.github.io/uspto-chem-2020/applications/04/I20200409.json",
+        "https://eloyfelix.github.io/uspto-chem-2020/applications/04/I20200416.json",
+        "https://eloyfelix.github.io/uspto-chem-2020/applications/04/I20200423.json",
+        "https://eloyfelix.github.io/uspto-chem-2020/applications/04/I20200430.json"
+      ],
+      "05": [
+        "https://eloyfelix.github.io/uspto-chem-2020/applications/05/I20200507.json",
+        "https://eloyfelix.github.io/uspto-chem-2020/applications/05/I20200514.json",
+        "https://eloyfelix.github.io/uspto-chem-2020/applications/05/I20200521.json",
+        "https://eloyfelix.github.io/uspto-chem-2020/applications/05/I20200528.json"
+      ],
+      "06": [
+        "https://eloyfelix.github.io/uspto-chem-2020/applications/06/I20200604.json",
+        "https://eloyfelix.github.io/uspto-chem-2020/applications/06/I20200611.json",
+        "https://eloyfelix.github.io/uspto-chem-2020/applications/06/I20200618.json",
+        "https://eloyfelix.github.io/uspto-chem-2020/applications/06/I20200625.json"
+      ],
+      "07": [
+        "https://eloyfelix.github.io/uspto-chem-2020/applications/07/I20200702.json",
+        "https://eloyfelix.github.io/uspto-chem-2020/applications/07/I20200709.json",
+        "https://eloyfelix.github.io/uspto-chem-2020/applications/07/I20200716.json",
+        "https://eloyfelix.github.io/uspto-chem-2020/applications/07/I20200723.json",
+        "https://eloyfelix.github.io/uspto-chem-2020/applications/07/I20200730.json"
+      ],
+      "08": [
+        "https://eloyfelix.github.io/uspto-chem-2020/applications/08/I20200806.json",
+        "https://eloyfelix.github.io/uspto-chem-2020/applications/08/I20200813.json",
+        "https://eloyfelix.github.io/uspto-chem-2020/applications/08/I20200820.json",
+        "https://eloyfelix.github.io/uspto-chem-2020/applications/08/I20200827.json"
+      ],
+      "09": [
+        "https://eloyfelix.github.io/uspto-chem-2020/applications/09/I20200903.json",
+        "https://eloyfelix.github.io/uspto-chem-2020/applications/09/I20200910.json",
+        "https://eloyfelix.github.io/uspto-chem-2020/applications/09/I20200917.json",
+        "https://eloyfelix.github.io/uspto-chem-2020/applications/09/I20200924.json"
+      ],
+      "10": [
+        "https://eloyfelix.github.io/uspto-chem-2020/applications/10/I20201001.json",
+        "https://eloyfelix.github.io/uspto-chem-2020/applications/10/I20201008.json",
+        "https://eloyfelix.github.io/uspto-chem-2020/applications/10/I20201015.json",
+        "https://eloyfelix.github.io/uspto-chem-2020/applications/10/I20201022.json",
+        "https://eloyfelix.github.io/uspto-chem-2020/applications/10/I20201029.json"
+      ],
+      "11": [
+        "https://eloyfelix.github.io/uspto-chem-2020/applications/11/I20201105.json",
+        "https://eloyfelix.github.io/uspto-chem-2020/applications/11/I20201112.json",
+        "https://eloyfelix.github.io/uspto-chem-2020/applications/11/I20201119.json",
+        "https://eloyfelix.github.io/uspto-chem-2020/applications/11/I20201126.json"
+      ],
+      "12": [
+        "https://eloyfelix.github.io/uspto-chem-2020/applications/12/I20201203.json",
+        "https://eloyfelix.github.io/uspto-chem-2020/applications/12/I20201210.json",
+        "https://eloyfelix.github.io/uspto-chem-2020/applications/12/I20201217.json",
+        "https://eloyfelix.github.io/uspto-chem-2020/applications/12/I20201224.json",
+        "https://eloyfelix.github.io/uspto-chem-2020/applications/12/I20201231.json"
+      ]
+    },
+    "2021": {
+      "01": [
+        "https://eloyfelix.github.io/uspto-chem-2021/applications/01/I20210107.json",
+        "https://eloyfelix.github.io/uspto-chem-2021/applications/01/I20210114.json",
+        "https://eloyfelix.github.io/uspto-chem-2021/applications/01/I20210121.json",
+        "https://eloyfelix.github.io/uspto-chem-2021/applications/01/I20210128.json"
+      ],
+      "02": [
+        "https://eloyfelix.github.io/uspto-chem-2021/applications/02/I20210204.json",
+        "https://eloyfelix.github.io/uspto-chem-2021/applications/02/I20210211.json",
+        "https://eloyfelix.github.io/uspto-chem-2021/applications/02/I20210218.json",
+        "https://eloyfelix.github.io/uspto-chem-2021/applications/02/I20210225.json"
+      ],
+      "03": [
+        "https://eloyfelix.github.io/uspto-chem-2021/applications/03/I20210304.json",
+        "https://eloyfelix.github.io/uspto-chem-2021/applications/03/I20210311.json",
+        "https://eloyfelix.github.io/uspto-chem-2021/applications/03/I20210318.json",
+        "https://eloyfelix.github.io/uspto-chem-2021/applications/03/I20210325.json"
+      ],
+      "04": [
+        "https://eloyfelix.github.io/uspto-chem-2021/applications/04/I20210401.json",
+        "https://eloyfelix.github.io/uspto-chem-2021/applications/04/I20210408.json",
+        "https://eloyfelix.github.io/uspto-chem-2021/applications/04/I20210415.json",
+        "https://eloyfelix.github.io/uspto-chem-2021/applications/04/I20210422.json",
+        "https://eloyfelix.github.io/uspto-chem-2021/applications/04/I20210429.json"
+      ],
+      "05": [
+        "https://eloyfelix.github.io/uspto-chem-2021/applications/05/I20210506.json",
+        "https://eloyfelix.github.io/uspto-chem-2021/applications/05/I20210513.json",
+        "https://eloyfelix.github.io/uspto-chem-2021/applications/05/I20210520.json",
+        "https://eloyfelix.github.io/uspto-chem-2021/applications/05/I20210527.json"
+      ],
+      "06": [
+        "https://eloyfelix.github.io/uspto-chem-2021/applications/06/I20210603.json",
+        "https://eloyfelix.github.io/uspto-chem-2021/applications/06/I20210610.json",
+        "https://eloyfelix.github.io/uspto-chem-2021/applications/06/I20210617.json",
+        "https://eloyfelix.github.io/uspto-chem-2021/applications/06/I20210624.json"
+      ],
+      "07": [
+        "https://eloyfelix.github.io/uspto-chem-2021/applications/07/I20210701.json",
+        "https://eloyfelix.github.io/uspto-chem-2021/applications/07/I20210708.json",
+        "https://eloyfelix.github.io/uspto-chem-2021/applications/07/I20210715.json",
+        "https://eloyfelix.github.io/uspto-chem-2021/applications/07/I20210722.json",
+        "https://eloyfelix.github.io/uspto-chem-2021/applications/07/I20210729.json"
+      ],
+      "08": [
+        "https://eloyfelix.github.io/uspto-chem-2021/applications/08/I20210805.json",
+        "https://eloyfelix.github.io/uspto-chem-2021/applications/08/I20210812.json",
+        "https://eloyfelix.github.io/uspto-chem-2021/applications/08/I20210819.json",
+        "https://eloyfelix.github.io/uspto-chem-2021/applications/08/I20210826.json"
+      ],
+      "09": [
+        "https://eloyfelix.github.io/uspto-chem-2021/applications/09/I20210902.json",
+        "https://eloyfelix.github.io/uspto-chem-2021/applications/09/I20210909.json",
+        "https://eloyfelix.github.io/uspto-chem-2021/applications/09/I20210916.json",
+        "https://eloyfelix.github.io/uspto-chem-2021/applications/09/I20210923.json",
+        "https://eloyfelix.github.io/uspto-chem-2021/applications/09/I20210930.json"
+      ],
+      "10": [
+        "https://eloyfelix.github.io/uspto-chem-2021/applications/10/I20211007.json",
+        "https://eloyfelix.github.io/uspto-chem-2021/applications/10/I20211014.json",
+        "https://eloyfelix.github.io/uspto-chem-2021/applications/10/I20211021.json",
+        "https://eloyfelix.github.io/uspto-chem-2021/applications/10/I20211028.json"
+      ],
+      "11": [
+        "https://eloyfelix.github.io/uspto-chem-2021/applications/11/I20211104.json",
+        "https://eloyfelix.github.io/uspto-chem-2021/applications/11/I20211111.json",
+        "https://eloyfelix.github.io/uspto-chem-2021/applications/11/I20211118.json",
+        "https://eloyfelix.github.io/uspto-chem-2021/applications/11/I20211125.json"
+      ],
+      "12": [
+        "https://eloyfelix.github.io/uspto-chem-2021/applications/12/I20211202.json",
+        "https://eloyfelix.github.io/uspto-chem-2021/applications/12/I20211209.json",
+        "https://eloyfelix.github.io/uspto-chem-2021/applications/12/I20211216.json",
+        "https://eloyfelix.github.io/uspto-chem-2021/applications/12/I20211223.json",
+        "https://eloyfelix.github.io/uspto-chem-2021/applications/12/I20211230.json"
+      ]
+    },
+    "2022": {
+      "01": [
+        "https://eloyfelix.github.io/uspto-chem-2022/applications/01/I20220106.json",
+        "https://eloyfelix.github.io/uspto-chem-2022/applications/01/I20220113.json",
+        "https://eloyfelix.github.io/uspto-chem-2022/applications/01/I20220120.json",
+        "https://eloyfelix.github.io/uspto-chem-2022/applications/01/I20220127.json"
+      ],
+      "02": [
+        "https://eloyfelix.github.io/uspto-chem-2022/applications/02/I20220203.json",
+        "https://eloyfelix.github.io/uspto-chem-2022/applications/02/I20220210.json",
+        "https://eloyfelix.github.io/uspto-chem-2022/applications/02/I20220217.json",
+        "https://eloyfelix.github.io/uspto-chem-2022/applications/02/I20220224.json"
+      ],
+      "03": [
+        "https://eloyfelix.github.io/uspto-chem-2022/applications/03/I20220303.json",
+        "https://eloyfelix.github.io/uspto-chem-2022/applications/03/I20220310.json",
+        "https://eloyfelix.github.io/uspto-chem-2022/applications/03/I20220317.json",
+        "https://eloyfelix.github.io/uspto-chem-2022/applications/03/I20220324.json",
+        "https://eloyfelix.github.io/uspto-chem-2022/applications/03/I20220331.json"
+      ],
+      "04": [
+        "https://eloyfelix.github.io/uspto-chem-2022/applications/04/I20220407.json",
+        "https://eloyfelix.github.io/uspto-chem-2022/applications/04/I20220414.json",
+        "https://eloyfelix.github.io/uspto-chem-2022/applications/04/I20220421.json",
+        "https://eloyfelix.github.io/uspto-chem-2022/applications/04/I20220428.json"
+      ],
+      "05": [
+        "https://eloyfelix.github.io/uspto-chem-2022/applications/05/I20220505.json",
+        "https://eloyfelix.github.io/uspto-chem-2022/applications/05/I20220512.json",
+        "https://eloyfelix.github.io/uspto-chem-2022/applications/05/I20220519.json",
+        "https://eloyfelix.github.io/uspto-chem-2022/applications/05/I20220526.json"
+      ],
+      "06": [
+        "https://eloyfelix.github.io/uspto-chem-2022/applications/06/I20220602.json",
+        "https://eloyfelix.github.io/uspto-chem-2022/applications/06/I20220609.json",
+        "https://eloyfelix.github.io/uspto-chem-2022/applications/06/I20220616.json",
+        "https://eloyfelix.github.io/uspto-chem-2022/applications/06/I20220623.json",
+        "https://eloyfelix.github.io/uspto-chem-2022/applications/06/I20220630.json"
+      ],
+      "07": [
+        "https://eloyfelix.github.io/uspto-chem-2022/applications/07/I20220707.json",
+        "https://eloyfelix.github.io/uspto-chem-2022/applications/07/I20220714.json",
+        "https://eloyfelix.github.io/uspto-chem-2022/applications/07/I20220721.json",
+        "https://eloyfelix.github.io/uspto-chem-2022/applications/07/I20220728.json"
+      ],
+      "08": [
+        "https://eloyfelix.github.io/uspto-chem-2022/applications/08/I20220804.json",
+        "https://eloyfelix.github.io/uspto-chem-2022/applications/08/I20220811.json",
+        "https://eloyfelix.github.io/uspto-chem-2022/applications/08/I20220818.json",
+        "https://eloyfelix.github.io/uspto-chem-2022/applications/08/I20220825.json"
+      ],
+      "09": [
+        "https://eloyfelix.github.io/uspto-chem-2022/applications/09/I20220901.json",
+        "https://eloyfelix.github.io/uspto-chem-2022/applications/09/I20220908.json",
+        "https://eloyfelix.github.io/uspto-chem-2022/applications/09/I20220915.json",
+        "https://eloyfelix.github.io/uspto-chem-2022/applications/09/I20220922.json",
+        "https://eloyfelix.github.io/uspto-chem-2022/applications/09/I20220929.json"
+      ],
+      "10": [
+        "https://eloyfelix.github.io/uspto-chem-2022/applications/10/I20221006.json",
+        "https://eloyfelix.github.io/uspto-chem-2022/applications/10/I20221013.json",
+        "https://eloyfelix.github.io/uspto-chem-2022/applications/10/I20221020.json",
+        "https://eloyfelix.github.io/uspto-chem-2022/applications/10/I20221027.json"
+      ],
+      "11": [
+        "https://eloyfelix.github.io/uspto-chem-2022/applications/11/I20221103.json",
+        "https://eloyfelix.github.io/uspto-chem-2022/applications/11/I20221110.json",
+        "https://eloyfelix.github.io/uspto-chem-2022/applications/11/I20221117.json",
+        "https://eloyfelix.github.io/uspto-chem-2022/applications/11/I20221124.json"
+      ],
+      "12": [
+        "https://eloyfelix.github.io/uspto-chem-2022/applications/12/I20221201.json",
+        "https://eloyfelix.github.io/uspto-chem-2022/applications/12/I20221208.json",
+        "https://eloyfelix.github.io/uspto-chem-2022/applications/12/I20221215.json",
+        "https://eloyfelix.github.io/uspto-chem-2022/applications/12/I20221222.json",
+        "https://eloyfelix.github.io/uspto-chem-2022/applications/12/I20221229.json"
+      ]
+    },
+    "2023": {
+      "01": [
+        "https://eloyfelix.github.io/uspto-chem-2023/applications/01/I20230105.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/applications/01/I20230112.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/applications/01/I20230112_r1.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/applications/01/I20230119.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/applications/01/I20230119_r1.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/applications/01/I20230126.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/applications/01/I20230126_r1.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/applications/01/I20230126_r2.json"
+      ],
+      "02": [
+        "https://eloyfelix.github.io/uspto-chem-2023/applications/02/I20230202.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/applications/02/I20230202_r1.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/applications/02/I20230202_r2.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/applications/02/I20230209.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/applications/02/I20230209_r1.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/applications/02/I20230216.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/applications/02/I20230216_r1.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/applications/02/I20230216_r2.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/applications/02/I20230223.json"
+      ],
+      "03": [
+        "https://eloyfelix.github.io/uspto-chem-2023/applications/03/I20230302.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/applications/03/I20230309.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/applications/03/I20230316.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/applications/03/I20230323.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/applications/03/I20230330.json"
+      ],
+      "04": [
+        "https://eloyfelix.github.io/uspto-chem-2023/applications/04/I20230406.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/applications/04/I20230413.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/applications/04/I20230420.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/applications/04/I20230427.json"
+      ],
+      "05": [
+        "https://eloyfelix.github.io/uspto-chem-2023/applications/05/I20230504.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/applications/05/I20230504_r1.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/applications/05/I20230511.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/applications/05/I20230511_r1.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/applications/05/I20230518.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/applications/05/I20230525.json"
+      ],
+      "06": [
+        "https://eloyfelix.github.io/uspto-chem-2023/applications/06/I20230601.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/applications/06/I20230608.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/applications/06/I20230615.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/applications/06/I20230622.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/applications/06/I20230629.json"
+      ],
+      "07": [
+        "https://eloyfelix.github.io/uspto-chem-2023/applications/07/I20230706.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/applications/07/I20230713.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/applications/07/I20230720.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/applications/07/I20230727.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/applications/07/I20230727_r1.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/applications/07/I20230727_r2.json"
+      ],
+      "08": [
+        "https://eloyfelix.github.io/uspto-chem-2023/applications/08/I20230803.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/applications/08/I20230803_r1.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/applications/08/I20230803_r2.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/applications/08/I20230810.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/applications/08/I20230817.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/applications/08/I20230824.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/applications/08/I20230831.json"
+      ],
+      "09": [
+        "https://eloyfelix.github.io/uspto-chem-2023/applications/09/I20230907.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/applications/09/I20230914.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/applications/09/I20230921.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/applications/09/I20230921_r1.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/applications/09/I20230928.json"
+      ],
+      "10": [
+        "https://eloyfelix.github.io/uspto-chem-2023/applications/10/I20231005.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/applications/10/I20231005_r1.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/applications/10/I20231005_r2.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/applications/10/I20231012.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/applications/10/I20231012_r1.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/applications/10/I20231012_r2.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/applications/10/I20231019.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/applications/10/I20231026.json"
+      ],
+      "11": [
+        "https://eloyfelix.github.io/uspto-chem-2023/applications/11/I20231102.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/applications/11/I20231109.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/applications/11/I20231116.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/applications/11/I20231123.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/applications/11/I20231130.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/applications/11/I20231130_r1.json"
+      ],
+      "12": [
+        "https://eloyfelix.github.io/uspto-chem-2023/applications/12/I20231207.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/applications/12/I20231207_r1.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/applications/12/I20231214.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/applications/12/I20231214_r1.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/applications/12/I20231221.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/applications/12/I20231221_r1.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/applications/12/I20231228.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/applications/12/I20231228_r1.json"
+      ]
+    },
     "2024": {
       "01": [
         "https://eloyfelix.github.io/uspto-chem-2024/applications/01/I20240104.json",
@@ -138,11 +951,800 @@
         "https://eloyfelix.github.io/uspto-chem-2025/applications/08/I20250828.json"
       ],
       "09": [
-        "https://eloyfelix.github.io/uspto-chem-2025/applications/09/I20250904.json"
+        "https://eloyfelix.github.io/uspto-chem-2025/applications/09/I20250904.json",
+        "https://eloyfelix.github.io/uspto-chem-2025/applications/09/I20250911.json",
+        "https://eloyfelix.github.io/uspto-chem-2025/applications/09/I20250918.json"
       ]
     }
   },
   "grants": {
+    "2014": {
+      "01": [
+        "https://eloyfelix.github.io/uspto-chem-2014/grants/01/I20140107.json",
+        "https://eloyfelix.github.io/uspto-chem-2014/grants/01/I20140114.json",
+        "https://eloyfelix.github.io/uspto-chem-2014/grants/01/I20140121.json",
+        "https://eloyfelix.github.io/uspto-chem-2014/grants/01/I20140128.json"
+      ],
+      "02": [
+        "https://eloyfelix.github.io/uspto-chem-2014/grants/02/I20140204.json",
+        "https://eloyfelix.github.io/uspto-chem-2014/grants/02/I20140211.json",
+        "https://eloyfelix.github.io/uspto-chem-2014/grants/02/I20140218.json",
+        "https://eloyfelix.github.io/uspto-chem-2014/grants/02/I20140225.json"
+      ],
+      "03": [
+        "https://eloyfelix.github.io/uspto-chem-2014/grants/03/I20140304.json",
+        "https://eloyfelix.github.io/uspto-chem-2014/grants/03/I20140311.json",
+        "https://eloyfelix.github.io/uspto-chem-2014/grants/03/I20140318.json",
+        "https://eloyfelix.github.io/uspto-chem-2014/grants/03/I20140325.json"
+      ],
+      "04": [
+        "https://eloyfelix.github.io/uspto-chem-2014/grants/04/I20140401.json",
+        "https://eloyfelix.github.io/uspto-chem-2014/grants/04/I20140408.json",
+        "https://eloyfelix.github.io/uspto-chem-2014/grants/04/I20140415.json",
+        "https://eloyfelix.github.io/uspto-chem-2014/grants/04/I20140422.json",
+        "https://eloyfelix.github.io/uspto-chem-2014/grants/04/I20140429.json"
+      ],
+      "05": [
+        "https://eloyfelix.github.io/uspto-chem-2014/grants/05/I20140506.json",
+        "https://eloyfelix.github.io/uspto-chem-2014/grants/05/I20140513.json",
+        "https://eloyfelix.github.io/uspto-chem-2014/grants/05/I20140520.json",
+        "https://eloyfelix.github.io/uspto-chem-2014/grants/05/I20140527.json"
+      ],
+      "06": [
+        "https://eloyfelix.github.io/uspto-chem-2014/grants/06/I20140603.json",
+        "https://eloyfelix.github.io/uspto-chem-2014/grants/06/I20140610.json",
+        "https://eloyfelix.github.io/uspto-chem-2014/grants/06/I20140617.json",
+        "https://eloyfelix.github.io/uspto-chem-2014/grants/06/I20140624.json"
+      ],
+      "07": [
+        "https://eloyfelix.github.io/uspto-chem-2014/grants/07/I20140701.json",
+        "https://eloyfelix.github.io/uspto-chem-2014/grants/07/I20140708.json",
+        "https://eloyfelix.github.io/uspto-chem-2014/grants/07/I20140715.json",
+        "https://eloyfelix.github.io/uspto-chem-2014/grants/07/I20140722.json",
+        "https://eloyfelix.github.io/uspto-chem-2014/grants/07/I20140729.json"
+      ],
+      "08": [
+        "https://eloyfelix.github.io/uspto-chem-2014/grants/08/I20140805.json",
+        "https://eloyfelix.github.io/uspto-chem-2014/grants/08/I20140812.json",
+        "https://eloyfelix.github.io/uspto-chem-2014/grants/08/I20140819.json",
+        "https://eloyfelix.github.io/uspto-chem-2014/grants/08/I20140826.json"
+      ],
+      "09": [
+        "https://eloyfelix.github.io/uspto-chem-2014/grants/09/I20140902.json",
+        "https://eloyfelix.github.io/uspto-chem-2014/grants/09/I20140909.json",
+        "https://eloyfelix.github.io/uspto-chem-2014/grants/09/I20140916.json",
+        "https://eloyfelix.github.io/uspto-chem-2014/grants/09/I20140923.json",
+        "https://eloyfelix.github.io/uspto-chem-2014/grants/09/I20140930.json"
+      ],
+      "10": [
+        "https://eloyfelix.github.io/uspto-chem-2014/grants/10/I20141007.json",
+        "https://eloyfelix.github.io/uspto-chem-2014/grants/10/I20141014.json",
+        "https://eloyfelix.github.io/uspto-chem-2014/grants/10/I20141021.json",
+        "https://eloyfelix.github.io/uspto-chem-2014/grants/10/I20141028.json"
+      ],
+      "11": [
+        "https://eloyfelix.github.io/uspto-chem-2014/grants/11/I20141104.json",
+        "https://eloyfelix.github.io/uspto-chem-2014/grants/11/I20141111.json",
+        "https://eloyfelix.github.io/uspto-chem-2014/grants/11/I20141118.json",
+        "https://eloyfelix.github.io/uspto-chem-2014/grants/11/I20141125.json"
+      ],
+      "12": [
+        "https://eloyfelix.github.io/uspto-chem-2014/grants/12/I20141202.json",
+        "https://eloyfelix.github.io/uspto-chem-2014/grants/12/I20141209.json",
+        "https://eloyfelix.github.io/uspto-chem-2014/grants/12/I20141216.json",
+        "https://eloyfelix.github.io/uspto-chem-2014/grants/12/I20141223.json",
+        "https://eloyfelix.github.io/uspto-chem-2014/grants/12/I20141230.json"
+      ]
+    },
+    "2015": {
+      "01": [
+        "https://eloyfelix.github.io/uspto-chem-2015/grants/01/I20150106.json",
+        "https://eloyfelix.github.io/uspto-chem-2015/grants/01/I20150113.json",
+        "https://eloyfelix.github.io/uspto-chem-2015/grants/01/I20150120.json",
+        "https://eloyfelix.github.io/uspto-chem-2015/grants/01/I20150127.json"
+      ],
+      "02": [
+        "https://eloyfelix.github.io/uspto-chem-2015/grants/02/I20150203.json",
+        "https://eloyfelix.github.io/uspto-chem-2015/grants/02/I20150210.json",
+        "https://eloyfelix.github.io/uspto-chem-2015/grants/02/I20150217.json",
+        "https://eloyfelix.github.io/uspto-chem-2015/grants/02/I20150224.json"
+      ],
+      "03": [
+        "https://eloyfelix.github.io/uspto-chem-2015/grants/03/I20150303.json",
+        "https://eloyfelix.github.io/uspto-chem-2015/grants/03/I20150310.json",
+        "https://eloyfelix.github.io/uspto-chem-2015/grants/03/I20150317.json",
+        "https://eloyfelix.github.io/uspto-chem-2015/grants/03/I20150324.json",
+        "https://eloyfelix.github.io/uspto-chem-2015/grants/03/I20150331.json"
+      ],
+      "04": [
+        "https://eloyfelix.github.io/uspto-chem-2015/grants/04/I20150407.json",
+        "https://eloyfelix.github.io/uspto-chem-2015/grants/04/I20150414.json",
+        "https://eloyfelix.github.io/uspto-chem-2015/grants/04/I20150421.json",
+        "https://eloyfelix.github.io/uspto-chem-2015/grants/04/I20150428.json"
+      ],
+      "05": [
+        "https://eloyfelix.github.io/uspto-chem-2015/grants/05/I20150505.json",
+        "https://eloyfelix.github.io/uspto-chem-2015/grants/05/I20150512.json",
+        "https://eloyfelix.github.io/uspto-chem-2015/grants/05/I20150519.json",
+        "https://eloyfelix.github.io/uspto-chem-2015/grants/05/I20150526.json"
+      ],
+      "06": [
+        "https://eloyfelix.github.io/uspto-chem-2015/grants/06/I20150602.json",
+        "https://eloyfelix.github.io/uspto-chem-2015/grants/06/I20150609.json",
+        "https://eloyfelix.github.io/uspto-chem-2015/grants/06/I20150616.json",
+        "https://eloyfelix.github.io/uspto-chem-2015/grants/06/I20150623.json",
+        "https://eloyfelix.github.io/uspto-chem-2015/grants/06/I20150630.json"
+      ],
+      "07": [
+        "https://eloyfelix.github.io/uspto-chem-2015/grants/07/I20150707.json",
+        "https://eloyfelix.github.io/uspto-chem-2015/grants/07/I20150714.json",
+        "https://eloyfelix.github.io/uspto-chem-2015/grants/07/I20150721.json",
+        "https://eloyfelix.github.io/uspto-chem-2015/grants/07/I20150728.json"
+      ],
+      "08": [
+        "https://eloyfelix.github.io/uspto-chem-2015/grants/08/I20150804.json",
+        "https://eloyfelix.github.io/uspto-chem-2015/grants/08/I20150811.json",
+        "https://eloyfelix.github.io/uspto-chem-2015/grants/08/I20150818.json",
+        "https://eloyfelix.github.io/uspto-chem-2015/grants/08/I20150825.json"
+      ],
+      "09": [
+        "https://eloyfelix.github.io/uspto-chem-2015/grants/09/I20150901.json",
+        "https://eloyfelix.github.io/uspto-chem-2015/grants/09/I20150908.json",
+        "https://eloyfelix.github.io/uspto-chem-2015/grants/09/I20150915.json",
+        "https://eloyfelix.github.io/uspto-chem-2015/grants/09/I20150922.json",
+        "https://eloyfelix.github.io/uspto-chem-2015/grants/09/I20150929.json"
+      ],
+      "10": [
+        "https://eloyfelix.github.io/uspto-chem-2015/grants/10/I20151006.json",
+        "https://eloyfelix.github.io/uspto-chem-2015/grants/10/I20151013.json",
+        "https://eloyfelix.github.io/uspto-chem-2015/grants/10/I20151020.json",
+        "https://eloyfelix.github.io/uspto-chem-2015/grants/10/I20151027.json"
+      ],
+      "11": [
+        "https://eloyfelix.github.io/uspto-chem-2015/grants/11/I20151103.json",
+        "https://eloyfelix.github.io/uspto-chem-2015/grants/11/I20151110.json",
+        "https://eloyfelix.github.io/uspto-chem-2015/grants/11/I20151117.json",
+        "https://eloyfelix.github.io/uspto-chem-2015/grants/11/I20151124.json"
+      ],
+      "12": [
+        "https://eloyfelix.github.io/uspto-chem-2015/grants/12/I20151201.json",
+        "https://eloyfelix.github.io/uspto-chem-2015/grants/12/I20151208.json",
+        "https://eloyfelix.github.io/uspto-chem-2015/grants/12/I20151215.json",
+        "https://eloyfelix.github.io/uspto-chem-2015/grants/12/I20151222.json",
+        "https://eloyfelix.github.io/uspto-chem-2015/grants/12/I20151229.json"
+      ]
+    },
+    "2016": {
+      "01": [
+        "https://eloyfelix.github.io/uspto-chem-2016/grants/01/I20160105.json",
+        "https://eloyfelix.github.io/uspto-chem-2016/grants/01/I20160112.json",
+        "https://eloyfelix.github.io/uspto-chem-2016/grants/01/I20160119.json",
+        "https://eloyfelix.github.io/uspto-chem-2016/grants/01/I20160126.json"
+      ],
+      "02": [
+        "https://eloyfelix.github.io/uspto-chem-2016/grants/02/I20160202.json",
+        "https://eloyfelix.github.io/uspto-chem-2016/grants/02/I20160209.json",
+        "https://eloyfelix.github.io/uspto-chem-2016/grants/02/I20160216.json",
+        "https://eloyfelix.github.io/uspto-chem-2016/grants/02/I20160223.json"
+      ],
+      "03": [
+        "https://eloyfelix.github.io/uspto-chem-2016/grants/03/I20160301.json",
+        "https://eloyfelix.github.io/uspto-chem-2016/grants/03/I20160308.json",
+        "https://eloyfelix.github.io/uspto-chem-2016/grants/03/I20160315.json",
+        "https://eloyfelix.github.io/uspto-chem-2016/grants/03/I20160322.json",
+        "https://eloyfelix.github.io/uspto-chem-2016/grants/03/I20160329.json"
+      ],
+      "04": [
+        "https://eloyfelix.github.io/uspto-chem-2016/grants/04/I20160405.json",
+        "https://eloyfelix.github.io/uspto-chem-2016/grants/04/I20160412.json",
+        "https://eloyfelix.github.io/uspto-chem-2016/grants/04/I20160419.json",
+        "https://eloyfelix.github.io/uspto-chem-2016/grants/04/I20160426.json"
+      ],
+      "05": [
+        "https://eloyfelix.github.io/uspto-chem-2016/grants/05/I20160503.json",
+        "https://eloyfelix.github.io/uspto-chem-2016/grants/05/I20160510.json",
+        "https://eloyfelix.github.io/uspto-chem-2016/grants/05/I20160517.json",
+        "https://eloyfelix.github.io/uspto-chem-2016/grants/05/I20160524.json",
+        "https://eloyfelix.github.io/uspto-chem-2016/grants/05/I20160531.json"
+      ],
+      "06": [
+        "https://eloyfelix.github.io/uspto-chem-2016/grants/06/I20160607.json",
+        "https://eloyfelix.github.io/uspto-chem-2016/grants/06/I20160614.json",
+        "https://eloyfelix.github.io/uspto-chem-2016/grants/06/I20160621.json",
+        "https://eloyfelix.github.io/uspto-chem-2016/grants/06/I20160628.json"
+      ],
+      "07": [
+        "https://eloyfelix.github.io/uspto-chem-2016/grants/07/I20160705.json",
+        "https://eloyfelix.github.io/uspto-chem-2016/grants/07/I20160712.json",
+        "https://eloyfelix.github.io/uspto-chem-2016/grants/07/I20160719.json",
+        "https://eloyfelix.github.io/uspto-chem-2016/grants/07/I20160726.json"
+      ],
+      "08": [
+        "https://eloyfelix.github.io/uspto-chem-2016/grants/08/I20160802.json",
+        "https://eloyfelix.github.io/uspto-chem-2016/grants/08/I20160809.json",
+        "https://eloyfelix.github.io/uspto-chem-2016/grants/08/I20160816.json",
+        "https://eloyfelix.github.io/uspto-chem-2016/grants/08/I20160823.json",
+        "https://eloyfelix.github.io/uspto-chem-2016/grants/08/I20160830.json"
+      ],
+      "09": [
+        "https://eloyfelix.github.io/uspto-chem-2016/grants/09/I20160906.json",
+        "https://eloyfelix.github.io/uspto-chem-2016/grants/09/I20160913.json",
+        "https://eloyfelix.github.io/uspto-chem-2016/grants/09/I20160920.json",
+        "https://eloyfelix.github.io/uspto-chem-2016/grants/09/I20160927.json"
+      ],
+      "10": [
+        "https://eloyfelix.github.io/uspto-chem-2016/grants/10/I20161004.json",
+        "https://eloyfelix.github.io/uspto-chem-2016/grants/10/I20161011.json",
+        "https://eloyfelix.github.io/uspto-chem-2016/grants/10/I20161018.json",
+        "https://eloyfelix.github.io/uspto-chem-2016/grants/10/I20161025.json"
+      ],
+      "11": [
+        "https://eloyfelix.github.io/uspto-chem-2016/grants/11/I20161101.json",
+        "https://eloyfelix.github.io/uspto-chem-2016/grants/11/I20161108.json",
+        "https://eloyfelix.github.io/uspto-chem-2016/grants/11/I20161115.json",
+        "https://eloyfelix.github.io/uspto-chem-2016/grants/11/I20161122.json",
+        "https://eloyfelix.github.io/uspto-chem-2016/grants/11/I20161129.json"
+      ],
+      "12": [
+        "https://eloyfelix.github.io/uspto-chem-2016/grants/12/I20161206.json",
+        "https://eloyfelix.github.io/uspto-chem-2016/grants/12/I20161213.json",
+        "https://eloyfelix.github.io/uspto-chem-2016/grants/12/I20161220.json",
+        "https://eloyfelix.github.io/uspto-chem-2016/grants/12/I20161227.json"
+      ]
+    },
+    "2017": {
+      "01": [
+        "https://eloyfelix.github.io/uspto-chem-2017/grants/01/I20170103.json",
+        "https://eloyfelix.github.io/uspto-chem-2017/grants/01/I20170110.json",
+        "https://eloyfelix.github.io/uspto-chem-2017/grants/01/I20170117.json",
+        "https://eloyfelix.github.io/uspto-chem-2017/grants/01/I20170124.json",
+        "https://eloyfelix.github.io/uspto-chem-2017/grants/01/I20170131.json"
+      ],
+      "02": [
+        "https://eloyfelix.github.io/uspto-chem-2017/grants/02/I20170207.json",
+        "https://eloyfelix.github.io/uspto-chem-2017/grants/02/I20170214.json",
+        "https://eloyfelix.github.io/uspto-chem-2017/grants/02/I20170221.json",
+        "https://eloyfelix.github.io/uspto-chem-2017/grants/02/I20170228.json"
+      ],
+      "03": [
+        "https://eloyfelix.github.io/uspto-chem-2017/grants/03/I20170307.json",
+        "https://eloyfelix.github.io/uspto-chem-2017/grants/03/I20170314.json",
+        "https://eloyfelix.github.io/uspto-chem-2017/grants/03/I20170321.json",
+        "https://eloyfelix.github.io/uspto-chem-2017/grants/03/I20170328.json"
+      ],
+      "04": [
+        "https://eloyfelix.github.io/uspto-chem-2017/grants/04/I20170404.json",
+        "https://eloyfelix.github.io/uspto-chem-2017/grants/04/I20170411.json",
+        "https://eloyfelix.github.io/uspto-chem-2017/grants/04/I20170418.json",
+        "https://eloyfelix.github.io/uspto-chem-2017/grants/04/I20170425.json"
+      ],
+      "05": [
+        "https://eloyfelix.github.io/uspto-chem-2017/grants/05/I20170502.json",
+        "https://eloyfelix.github.io/uspto-chem-2017/grants/05/I20170509.json",
+        "https://eloyfelix.github.io/uspto-chem-2017/grants/05/I20170516.json",
+        "https://eloyfelix.github.io/uspto-chem-2017/grants/05/I20170523.json",
+        "https://eloyfelix.github.io/uspto-chem-2017/grants/05/I20170530.json"
+      ],
+      "06": [
+        "https://eloyfelix.github.io/uspto-chem-2017/grants/06/I20170606.json",
+        "https://eloyfelix.github.io/uspto-chem-2017/grants/06/I20170613.json",
+        "https://eloyfelix.github.io/uspto-chem-2017/grants/06/I20170620.json",
+        "https://eloyfelix.github.io/uspto-chem-2017/grants/06/I20170627.json"
+      ],
+      "07": [
+        "https://eloyfelix.github.io/uspto-chem-2017/grants/07/I20170704.json",
+        "https://eloyfelix.github.io/uspto-chem-2017/grants/07/I20170711.json",
+        "https://eloyfelix.github.io/uspto-chem-2017/grants/07/I20170718.json",
+        "https://eloyfelix.github.io/uspto-chem-2017/grants/07/I20170725.json"
+      ],
+      "08": [
+        "https://eloyfelix.github.io/uspto-chem-2017/grants/08/I20170801.json",
+        "https://eloyfelix.github.io/uspto-chem-2017/grants/08/I20170808.json",
+        "https://eloyfelix.github.io/uspto-chem-2017/grants/08/I20170815.json",
+        "https://eloyfelix.github.io/uspto-chem-2017/grants/08/I20170822.json",
+        "https://eloyfelix.github.io/uspto-chem-2017/grants/08/I20170829.json"
+      ],
+      "09": [
+        "https://eloyfelix.github.io/uspto-chem-2017/grants/09/I20170905.json",
+        "https://eloyfelix.github.io/uspto-chem-2017/grants/09/I20170912.json",
+        "https://eloyfelix.github.io/uspto-chem-2017/grants/09/I20170919.json",
+        "https://eloyfelix.github.io/uspto-chem-2017/grants/09/I20170926.json"
+      ],
+      "10": [
+        "https://eloyfelix.github.io/uspto-chem-2017/grants/10/I20171003.json",
+        "https://eloyfelix.github.io/uspto-chem-2017/grants/10/I20171010.json",
+        "https://eloyfelix.github.io/uspto-chem-2017/grants/10/I20171017.json",
+        "https://eloyfelix.github.io/uspto-chem-2017/grants/10/I20171024.json",
+        "https://eloyfelix.github.io/uspto-chem-2017/grants/10/I20171031.json"
+      ],
+      "11": [
+        "https://eloyfelix.github.io/uspto-chem-2017/grants/11/I20171107.json",
+        "https://eloyfelix.github.io/uspto-chem-2017/grants/11/I20171114.json",
+        "https://eloyfelix.github.io/uspto-chem-2017/grants/11/I20171121.json",
+        "https://eloyfelix.github.io/uspto-chem-2017/grants/11/I20171128.json"
+      ],
+      "12": [
+        "https://eloyfelix.github.io/uspto-chem-2017/grants/12/I20171205.json",
+        "https://eloyfelix.github.io/uspto-chem-2017/grants/12/I20171212.json",
+        "https://eloyfelix.github.io/uspto-chem-2017/grants/12/I20171219.json",
+        "https://eloyfelix.github.io/uspto-chem-2017/grants/12/I20171226.json"
+      ]
+    },
+    "2018": {
+      "01": [
+        "https://eloyfelix.github.io/uspto-chem-2018/grants/01/I20180102.json",
+        "https://eloyfelix.github.io/uspto-chem-2018/grants/01/I20180109.json",
+        "https://eloyfelix.github.io/uspto-chem-2018/grants/01/I20180116.json",
+        "https://eloyfelix.github.io/uspto-chem-2018/grants/01/I20180123.json",
+        "https://eloyfelix.github.io/uspto-chem-2018/grants/01/I20180130.json"
+      ],
+      "02": [
+        "https://eloyfelix.github.io/uspto-chem-2018/grants/02/I20180206.json",
+        "https://eloyfelix.github.io/uspto-chem-2018/grants/02/I20180213.json",
+        "https://eloyfelix.github.io/uspto-chem-2018/grants/02/I20180220.json",
+        "https://eloyfelix.github.io/uspto-chem-2018/grants/02/I20180227.json"
+      ],
+      "03": [
+        "https://eloyfelix.github.io/uspto-chem-2018/grants/03/I20180306.json",
+        "https://eloyfelix.github.io/uspto-chem-2018/grants/03/I20180313.json",
+        "https://eloyfelix.github.io/uspto-chem-2018/grants/03/I20180320.json",
+        "https://eloyfelix.github.io/uspto-chem-2018/grants/03/I20180327.json"
+      ],
+      "04": [
+        "https://eloyfelix.github.io/uspto-chem-2018/grants/04/I20180403.json",
+        "https://eloyfelix.github.io/uspto-chem-2018/grants/04/I20180410.json",
+        "https://eloyfelix.github.io/uspto-chem-2018/grants/04/I20180417.json",
+        "https://eloyfelix.github.io/uspto-chem-2018/grants/04/I20180424.json"
+      ],
+      "05": [
+        "https://eloyfelix.github.io/uspto-chem-2018/grants/05/I20180501.json",
+        "https://eloyfelix.github.io/uspto-chem-2018/grants/05/I20180508.json",
+        "https://eloyfelix.github.io/uspto-chem-2018/grants/05/I20180515.json",
+        "https://eloyfelix.github.io/uspto-chem-2018/grants/05/I20180522.json",
+        "https://eloyfelix.github.io/uspto-chem-2018/grants/05/I20180529.json"
+      ],
+      "06": [
+        "https://eloyfelix.github.io/uspto-chem-2018/grants/06/I20180605.json",
+        "https://eloyfelix.github.io/uspto-chem-2018/grants/06/I20180612.json",
+        "https://eloyfelix.github.io/uspto-chem-2018/grants/06/I20180619.json",
+        "https://eloyfelix.github.io/uspto-chem-2018/grants/06/I20180626.json"
+      ],
+      "07": [
+        "https://eloyfelix.github.io/uspto-chem-2018/grants/07/I20180703.json",
+        "https://eloyfelix.github.io/uspto-chem-2018/grants/07/I20180710.json",
+        "https://eloyfelix.github.io/uspto-chem-2018/grants/07/I20180717.json",
+        "https://eloyfelix.github.io/uspto-chem-2018/grants/07/I20180724.json",
+        "https://eloyfelix.github.io/uspto-chem-2018/grants/07/I20180731.json"
+      ],
+      "08": [
+        "https://eloyfelix.github.io/uspto-chem-2018/grants/08/I20180807.json",
+        "https://eloyfelix.github.io/uspto-chem-2018/grants/08/I20180814.json",
+        "https://eloyfelix.github.io/uspto-chem-2018/grants/08/I20180821.json",
+        "https://eloyfelix.github.io/uspto-chem-2018/grants/08/I20180828.json"
+      ],
+      "09": [
+        "https://eloyfelix.github.io/uspto-chem-2018/grants/09/I20180904.json",
+        "https://eloyfelix.github.io/uspto-chem-2018/grants/09/I20180911.json",
+        "https://eloyfelix.github.io/uspto-chem-2018/grants/09/I20180918.json",
+        "https://eloyfelix.github.io/uspto-chem-2018/grants/09/I20180925.json"
+      ],
+      "10": [
+        "https://eloyfelix.github.io/uspto-chem-2018/grants/10/I20181002.json",
+        "https://eloyfelix.github.io/uspto-chem-2018/grants/10/I20181009.json",
+        "https://eloyfelix.github.io/uspto-chem-2018/grants/10/I20181016.json",
+        "https://eloyfelix.github.io/uspto-chem-2018/grants/10/I20181023.json",
+        "https://eloyfelix.github.io/uspto-chem-2018/grants/10/I20181030.json"
+      ],
+      "11": [
+        "https://eloyfelix.github.io/uspto-chem-2018/grants/11/I20181106.json",
+        "https://eloyfelix.github.io/uspto-chem-2018/grants/11/I20181113.json",
+        "https://eloyfelix.github.io/uspto-chem-2018/grants/11/I20181120.json",
+        "https://eloyfelix.github.io/uspto-chem-2018/grants/11/I20181127.json"
+      ],
+      "12": [
+        "https://eloyfelix.github.io/uspto-chem-2018/grants/12/I20181204.json",
+        "https://eloyfelix.github.io/uspto-chem-2018/grants/12/I20181211.json",
+        "https://eloyfelix.github.io/uspto-chem-2018/grants/12/I20181218.json",
+        "https://eloyfelix.github.io/uspto-chem-2018/grants/12/I20181225.json"
+      ]
+    },
+    "2019": {
+      "01": [
+        "https://eloyfelix.github.io/uspto-chem-2019/grants/01/I20190101.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/grants/01/I20190108.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/grants/01/I20190115.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/grants/01/I20190122.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/grants/01/I20190129.json"
+      ],
+      "02": [
+        "https://eloyfelix.github.io/uspto-chem-2019/grants/02/I20190205.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/grants/02/I20190212.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/grants/02/I20190219.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/grants/02/I20190226.json"
+      ],
+      "03": [
+        "https://eloyfelix.github.io/uspto-chem-2019/grants/03/I20190305.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/grants/03/I20190312.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/grants/03/I20190319.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/grants/03/I20190326.json"
+      ],
+      "04": [
+        "https://eloyfelix.github.io/uspto-chem-2019/grants/04/I20190402.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/grants/04/I20190409.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/grants/04/I20190416.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/grants/04/I20190423.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/grants/04/I20190430.json"
+      ],
+      "05": [
+        "https://eloyfelix.github.io/uspto-chem-2019/grants/05/I20190507.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/grants/05/I20190514.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/grants/05/I20190521.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/grants/05/I20190528.json"
+      ],
+      "06": [
+        "https://eloyfelix.github.io/uspto-chem-2019/grants/06/I20190604.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/grants/06/I20190611.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/grants/06/I20190618.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/grants/06/I20190625.json"
+      ],
+      "07": [
+        "https://eloyfelix.github.io/uspto-chem-2019/grants/07/I20190702.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/grants/07/I20190709.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/grants/07/I20190716.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/grants/07/I20190723.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/grants/07/I20190730.json"
+      ],
+      "08": [
+        "https://eloyfelix.github.io/uspto-chem-2019/grants/08/I20190806.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/grants/08/I20190813.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/grants/08/I20190820.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/grants/08/I20190827.json"
+      ],
+      "09": [
+        "https://eloyfelix.github.io/uspto-chem-2019/grants/09/I20190903.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/grants/09/I20190910.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/grants/09/I20190917.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/grants/09/I20190924.json"
+      ],
+      "10": [
+        "https://eloyfelix.github.io/uspto-chem-2019/grants/10/I20191001.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/grants/10/I20191008.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/grants/10/I20191015.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/grants/10/I20191022.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/grants/10/I20191029.json"
+      ],
+      "11": [
+        "https://eloyfelix.github.io/uspto-chem-2019/grants/11/I20191105.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/grants/11/I20191112.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/grants/11/I20191119.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/grants/11/I20191126.json"
+      ],
+      "12": [
+        "https://eloyfelix.github.io/uspto-chem-2019/grants/12/I20191203.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/grants/12/I20191210.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/grants/12/I20191217.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/grants/12/I20191224.json",
+        "https://eloyfelix.github.io/uspto-chem-2019/grants/12/I20191231.json"
+      ]
+    },
+    "2020": {
+      "01": [
+        "https://eloyfelix.github.io/uspto-chem-2020/grants/01/I20200107.json",
+        "https://eloyfelix.github.io/uspto-chem-2020/grants/01/I20200114.json",
+        "https://eloyfelix.github.io/uspto-chem-2020/grants/01/I20200121.json",
+        "https://eloyfelix.github.io/uspto-chem-2020/grants/01/I20200128.json"
+      ],
+      "02": [
+        "https://eloyfelix.github.io/uspto-chem-2020/grants/02/I20200204.json",
+        "https://eloyfelix.github.io/uspto-chem-2020/grants/02/I20200211.json",
+        "https://eloyfelix.github.io/uspto-chem-2020/grants/02/I20200218.json",
+        "https://eloyfelix.github.io/uspto-chem-2020/grants/02/I20200225.json"
+      ],
+      "03": [
+        "https://eloyfelix.github.io/uspto-chem-2020/grants/03/I20200303.json",
+        "https://eloyfelix.github.io/uspto-chem-2020/grants/03/I20200310.json",
+        "https://eloyfelix.github.io/uspto-chem-2020/grants/03/I20200317.json",
+        "https://eloyfelix.github.io/uspto-chem-2020/grants/03/I20200317_r1.json",
+        "https://eloyfelix.github.io/uspto-chem-2020/grants/03/I20200324.json",
+        "https://eloyfelix.github.io/uspto-chem-2020/grants/03/I20200331.json"
+      ],
+      "04": [
+        "https://eloyfelix.github.io/uspto-chem-2020/grants/04/I20200407.json",
+        "https://eloyfelix.github.io/uspto-chem-2020/grants/04/I20200414.json",
+        "https://eloyfelix.github.io/uspto-chem-2020/grants/04/I20200421.json",
+        "https://eloyfelix.github.io/uspto-chem-2020/grants/04/I20200428.json"
+      ],
+      "05": [
+        "https://eloyfelix.github.io/uspto-chem-2020/grants/05/I20200505.json",
+        "https://eloyfelix.github.io/uspto-chem-2020/grants/05/I20200512.json",
+        "https://eloyfelix.github.io/uspto-chem-2020/grants/05/I20200519.json",
+        "https://eloyfelix.github.io/uspto-chem-2020/grants/05/I20200526.json"
+      ],
+      "06": [
+        "https://eloyfelix.github.io/uspto-chem-2020/grants/06/I20200602.json",
+        "https://eloyfelix.github.io/uspto-chem-2020/grants/06/I20200609.json",
+        "https://eloyfelix.github.io/uspto-chem-2020/grants/06/I20200616.json",
+        "https://eloyfelix.github.io/uspto-chem-2020/grants/06/I20200623.json",
+        "https://eloyfelix.github.io/uspto-chem-2020/grants/06/I20200630.json"
+      ],
+      "07": [
+        "https://eloyfelix.github.io/uspto-chem-2020/grants/07/I20200707.json",
+        "https://eloyfelix.github.io/uspto-chem-2020/grants/07/I20200714.json",
+        "https://eloyfelix.github.io/uspto-chem-2020/grants/07/I20200721.json",
+        "https://eloyfelix.github.io/uspto-chem-2020/grants/07/I20200728.json"
+      ],
+      "08": [
+        "https://eloyfelix.github.io/uspto-chem-2020/grants/08/I20200804.json",
+        "https://eloyfelix.github.io/uspto-chem-2020/grants/08/I20200811.json",
+        "https://eloyfelix.github.io/uspto-chem-2020/grants/08/I20200818.json",
+        "https://eloyfelix.github.io/uspto-chem-2020/grants/08/I20200825.json"
+      ],
+      "09": [
+        "https://eloyfelix.github.io/uspto-chem-2020/grants/09/I20200901.json",
+        "https://eloyfelix.github.io/uspto-chem-2020/grants/09/I20200908.json",
+        "https://eloyfelix.github.io/uspto-chem-2020/grants/09/I20200915.json",
+        "https://eloyfelix.github.io/uspto-chem-2020/grants/09/I20200922.json",
+        "https://eloyfelix.github.io/uspto-chem-2020/grants/09/I20200929.json"
+      ],
+      "10": [
+        "https://eloyfelix.github.io/uspto-chem-2020/grants/10/I20201006.json",
+        "https://eloyfelix.github.io/uspto-chem-2020/grants/10/I20201013.json",
+        "https://eloyfelix.github.io/uspto-chem-2020/grants/10/I20201020.json",
+        "https://eloyfelix.github.io/uspto-chem-2020/grants/10/I20201027.json"
+      ],
+      "11": [
+        "https://eloyfelix.github.io/uspto-chem-2020/grants/11/I20201103.json",
+        "https://eloyfelix.github.io/uspto-chem-2020/grants/11/I20201110.json",
+        "https://eloyfelix.github.io/uspto-chem-2020/grants/11/I20201117.json",
+        "https://eloyfelix.github.io/uspto-chem-2020/grants/11/I20201124.json"
+      ],
+      "12": [
+        "https://eloyfelix.github.io/uspto-chem-2020/grants/12/I20201201.json",
+        "https://eloyfelix.github.io/uspto-chem-2020/grants/12/I20201208.json",
+        "https://eloyfelix.github.io/uspto-chem-2020/grants/12/I20201215.json",
+        "https://eloyfelix.github.io/uspto-chem-2020/grants/12/I20201222.json",
+        "https://eloyfelix.github.io/uspto-chem-2020/grants/12/I20201229.json"
+      ]
+    },
+    "2021": {
+      "01": [
+        "https://eloyfelix.github.io/uspto-chem-2021/grants/01/I20210105.json",
+        "https://eloyfelix.github.io/uspto-chem-2021/grants/01/I20210112.json",
+        "https://eloyfelix.github.io/uspto-chem-2021/grants/01/I20210119.json",
+        "https://eloyfelix.github.io/uspto-chem-2021/grants/01/I20210126.json"
+      ],
+      "02": [
+        "https://eloyfelix.github.io/uspto-chem-2021/grants/02/I20210202.json",
+        "https://eloyfelix.github.io/uspto-chem-2021/grants/02/I20210209.json",
+        "https://eloyfelix.github.io/uspto-chem-2021/grants/02/I20210216.json",
+        "https://eloyfelix.github.io/uspto-chem-2021/grants/02/I20210223.json"
+      ],
+      "03": [
+        "https://eloyfelix.github.io/uspto-chem-2021/grants/03/I20210302.json",
+        "https://eloyfelix.github.io/uspto-chem-2021/grants/03/I20210309.json",
+        "https://eloyfelix.github.io/uspto-chem-2021/grants/03/I20210316.json",
+        "https://eloyfelix.github.io/uspto-chem-2021/grants/03/I20210323.json",
+        "https://eloyfelix.github.io/uspto-chem-2021/grants/03/I20210330.json"
+      ],
+      "04": [
+        "https://eloyfelix.github.io/uspto-chem-2021/grants/04/I20210406.json",
+        "https://eloyfelix.github.io/uspto-chem-2021/grants/04/I20210413.json",
+        "https://eloyfelix.github.io/uspto-chem-2021/grants/04/I20210420.json",
+        "https://eloyfelix.github.io/uspto-chem-2021/grants/04/I20210427.json"
+      ],
+      "05": [
+        "https://eloyfelix.github.io/uspto-chem-2021/grants/05/I20210504.json",
+        "https://eloyfelix.github.io/uspto-chem-2021/grants/05/I20210511.json",
+        "https://eloyfelix.github.io/uspto-chem-2021/grants/05/I20210518.json",
+        "https://eloyfelix.github.io/uspto-chem-2021/grants/05/I20210525.json"
+      ],
+      "06": [
+        "https://eloyfelix.github.io/uspto-chem-2021/grants/06/I20210601.json",
+        "https://eloyfelix.github.io/uspto-chem-2021/grants/06/I20210608.json",
+        "https://eloyfelix.github.io/uspto-chem-2021/grants/06/I20210615.json",
+        "https://eloyfelix.github.io/uspto-chem-2021/grants/06/I20210622.json",
+        "https://eloyfelix.github.io/uspto-chem-2021/grants/06/I20210629.json"
+      ],
+      "07": [
+        "https://eloyfelix.github.io/uspto-chem-2021/grants/07/I20210706.json",
+        "https://eloyfelix.github.io/uspto-chem-2021/grants/07/I20210713.json",
+        "https://eloyfelix.github.io/uspto-chem-2021/grants/07/I20210720.json",
+        "https://eloyfelix.github.io/uspto-chem-2021/grants/07/I20210727.json"
+      ],
+      "08": [
+        "https://eloyfelix.github.io/uspto-chem-2021/grants/08/I20210803.json",
+        "https://eloyfelix.github.io/uspto-chem-2021/grants/08/I20210810.json",
+        "https://eloyfelix.github.io/uspto-chem-2021/grants/08/I20210817.json",
+        "https://eloyfelix.github.io/uspto-chem-2021/grants/08/I20210824.json",
+        "https://eloyfelix.github.io/uspto-chem-2021/grants/08/I20210831.json"
+      ],
+      "09": [
+        "https://eloyfelix.github.io/uspto-chem-2021/grants/09/I20210907.json",
+        "https://eloyfelix.github.io/uspto-chem-2021/grants/09/I20210914.json",
+        "https://eloyfelix.github.io/uspto-chem-2021/grants/09/I20210921.json",
+        "https://eloyfelix.github.io/uspto-chem-2021/grants/09/I20210928.json"
+      ],
+      "10": [
+        "https://eloyfelix.github.io/uspto-chem-2021/grants/10/I20211005.json",
+        "https://eloyfelix.github.io/uspto-chem-2021/grants/10/I20211012.json",
+        "https://eloyfelix.github.io/uspto-chem-2021/grants/10/I20211019.json",
+        "https://eloyfelix.github.io/uspto-chem-2021/grants/10/I20211026.json"
+      ],
+      "11": [
+        "https://eloyfelix.github.io/uspto-chem-2021/grants/11/I20211102.json",
+        "https://eloyfelix.github.io/uspto-chem-2021/grants/11/I20211109.json",
+        "https://eloyfelix.github.io/uspto-chem-2021/grants/11/I20211116.json",
+        "https://eloyfelix.github.io/uspto-chem-2021/grants/11/I20211123.json",
+        "https://eloyfelix.github.io/uspto-chem-2021/grants/11/I20211130.json"
+      ],
+      "12": [
+        "https://eloyfelix.github.io/uspto-chem-2021/grants/12/I20211207.json",
+        "https://eloyfelix.github.io/uspto-chem-2021/grants/12/I20211214.json",
+        "https://eloyfelix.github.io/uspto-chem-2021/grants/12/I20211221.json",
+        "https://eloyfelix.github.io/uspto-chem-2021/grants/12/I20211228.json"
+      ]
+    },
+    "2022": {
+      "01": [
+        "https://eloyfelix.github.io/uspto-chem-2022/grants/01/I20220104.json",
+        "https://eloyfelix.github.io/uspto-chem-2022/grants/01/I20220111.json",
+        "https://eloyfelix.github.io/uspto-chem-2022/grants/01/I20220118.json",
+        "https://eloyfelix.github.io/uspto-chem-2022/grants/01/I20220125.json"
+      ],
+      "02": [
+        "https://eloyfelix.github.io/uspto-chem-2022/grants/02/I20220201.json",
+        "https://eloyfelix.github.io/uspto-chem-2022/grants/02/I20220208.json",
+        "https://eloyfelix.github.io/uspto-chem-2022/grants/02/I20220215.json",
+        "https://eloyfelix.github.io/uspto-chem-2022/grants/02/I20220222.json"
+      ],
+      "03": [
+        "https://eloyfelix.github.io/uspto-chem-2022/grants/03/I20220301.json",
+        "https://eloyfelix.github.io/uspto-chem-2022/grants/03/I20220308.json",
+        "https://eloyfelix.github.io/uspto-chem-2022/grants/03/I20220315.json",
+        "https://eloyfelix.github.io/uspto-chem-2022/grants/03/I20220322.json",
+        "https://eloyfelix.github.io/uspto-chem-2022/grants/03/I20220329.json"
+      ],
+      "04": [
+        "https://eloyfelix.github.io/uspto-chem-2022/grants/04/I20220405.json",
+        "https://eloyfelix.github.io/uspto-chem-2022/grants/04/I20220412.json",
+        "https://eloyfelix.github.io/uspto-chem-2022/grants/04/I20220419.json",
+        "https://eloyfelix.github.io/uspto-chem-2022/grants/04/I20220426.json"
+      ],
+      "05": [
+        "https://eloyfelix.github.io/uspto-chem-2022/grants/05/I20220503.json",
+        "https://eloyfelix.github.io/uspto-chem-2022/grants/05/I20220510.json",
+        "https://eloyfelix.github.io/uspto-chem-2022/grants/05/I20220517.json",
+        "https://eloyfelix.github.io/uspto-chem-2022/grants/05/I20220524.json",
+        "https://eloyfelix.github.io/uspto-chem-2022/grants/05/I20220531.json"
+      ],
+      "06": [
+        "https://eloyfelix.github.io/uspto-chem-2022/grants/06/I20220607.json",
+        "https://eloyfelix.github.io/uspto-chem-2022/grants/06/I20220614.json",
+        "https://eloyfelix.github.io/uspto-chem-2022/grants/06/I20220621.json",
+        "https://eloyfelix.github.io/uspto-chem-2022/grants/06/I20220628.json"
+      ],
+      "07": [
+        "https://eloyfelix.github.io/uspto-chem-2022/grants/07/I20220705.json",
+        "https://eloyfelix.github.io/uspto-chem-2022/grants/07/I20220712.json",
+        "https://eloyfelix.github.io/uspto-chem-2022/grants/07/I20220719.json",
+        "https://eloyfelix.github.io/uspto-chem-2022/grants/07/I20220726.json"
+      ],
+      "08": [
+        "https://eloyfelix.github.io/uspto-chem-2022/grants/08/I20220802.json",
+        "https://eloyfelix.github.io/uspto-chem-2022/grants/08/I20220809.json",
+        "https://eloyfelix.github.io/uspto-chem-2022/grants/08/I20220816.json",
+        "https://eloyfelix.github.io/uspto-chem-2022/grants/08/I20220823.json",
+        "https://eloyfelix.github.io/uspto-chem-2022/grants/08/I20220830.json"
+      ],
+      "09": [
+        "https://eloyfelix.github.io/uspto-chem-2022/grants/09/I20220906.json",
+        "https://eloyfelix.github.io/uspto-chem-2022/grants/09/I20220913.json",
+        "https://eloyfelix.github.io/uspto-chem-2022/grants/09/I20220920.json",
+        "https://eloyfelix.github.io/uspto-chem-2022/grants/09/I20220927.json"
+      ],
+      "10": [
+        "https://eloyfelix.github.io/uspto-chem-2022/grants/10/I20221004.json",
+        "https://eloyfelix.github.io/uspto-chem-2022/grants/10/I20221011.json",
+        "https://eloyfelix.github.io/uspto-chem-2022/grants/10/I20221018.json",
+        "https://eloyfelix.github.io/uspto-chem-2022/grants/10/I20221025.json"
+      ],
+      "11": [
+        "https://eloyfelix.github.io/uspto-chem-2022/grants/11/I20221101.json",
+        "https://eloyfelix.github.io/uspto-chem-2022/grants/11/I20221108.json",
+        "https://eloyfelix.github.io/uspto-chem-2022/grants/11/I20221115.json",
+        "https://eloyfelix.github.io/uspto-chem-2022/grants/11/I20221122.json",
+        "https://eloyfelix.github.io/uspto-chem-2022/grants/11/I20221129.json"
+      ],
+      "12": [
+        "https://eloyfelix.github.io/uspto-chem-2022/grants/12/I20221206.json",
+        "https://eloyfelix.github.io/uspto-chem-2022/grants/12/I20221213.json",
+        "https://eloyfelix.github.io/uspto-chem-2022/grants/12/I20221220.json",
+        "https://eloyfelix.github.io/uspto-chem-2022/grants/12/I20221227.json"
+      ]
+    },
+    "2023": {
+      "01": [
+        "https://eloyfelix.github.io/uspto-chem-2023/grants/01/I20230103.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/grants/01/I20230110.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/grants/01/I20230117.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/grants/01/I20230124.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/grants/01/I20230124_r1.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/grants/01/I20230131.json"
+      ],
+      "02": [
+        "https://eloyfelix.github.io/uspto-chem-2023/grants/02/I20230207.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/grants/02/I20230214.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/grants/02/I20230221.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/grants/02/I20230228.json"
+      ],
+      "03": [
+        "https://eloyfelix.github.io/uspto-chem-2023/grants/03/I20230307.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/grants/03/I20230314.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/grants/03/I20230321.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/grants/03/I20230328.json"
+      ],
+      "04": [
+        "https://eloyfelix.github.io/uspto-chem-2023/grants/04/I20230404.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/grants/04/I20230404_r1.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/grants/04/I20230411.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/grants/04/I20230418.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/grants/04/I20230425.json"
+      ],
+      "05": [
+        "https://eloyfelix.github.io/uspto-chem-2023/grants/05/I20230502.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/grants/05/I20230509.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/grants/05/I20230509_r1.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/grants/05/I20230516.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/grants/05/I20230523.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/grants/05/I20230530.json"
+      ],
+      "06": [
+        "https://eloyfelix.github.io/uspto-chem-2023/grants/06/I20230606.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/grants/06/I20230613.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/grants/06/I20230620.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/grants/06/I20230627.json"
+      ],
+      "07": [
+        "https://eloyfelix.github.io/uspto-chem-2023/grants/07/I20230704.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/grants/07/I20230711.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/grants/07/I20230718.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/grants/07/I20230725.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/grants/07/I20230725_r1.json"
+      ],
+      "08": [
+        "https://eloyfelix.github.io/uspto-chem-2023/grants/08/I20230801.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/grants/08/I20230808.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/grants/08/I20230815.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/grants/08/I20230822.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/grants/08/I20230829.json"
+      ],
+      "09": [
+        "https://eloyfelix.github.io/uspto-chem-2023/grants/09/I20230905.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/grants/09/I20230912.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/grants/09/I20230919.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/grants/09/I20230926.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/grants/09/I20230926_r1.json"
+      ],
+      "10": [
+        "https://eloyfelix.github.io/uspto-chem-2023/grants/10/I20231003.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/grants/10/I20231010.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/grants/10/I20231017.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/grants/10/I20231024.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/grants/10/I20231031.json"
+      ],
+      "11": [
+        "https://eloyfelix.github.io/uspto-chem-2023/grants/11/I20231107.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/grants/11/I20231114.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/grants/11/I20231121.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/grants/11/I20231128.json"
+      ],
+      "12": [
+        "https://eloyfelix.github.io/uspto-chem-2023/grants/12/I20231205.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/grants/12/I20231212.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/grants/12/I20231219.json",
+        "https://eloyfelix.github.io/uspto-chem-2023/grants/12/I20231226.json"
+      ]
+    },
     "2024": {
       "01": [
         "https://eloyfelix.github.io/uspto-chem-2024/grants/01/I20240102.json",
@@ -278,7 +1880,8 @@
       ],
       "09": [
         "https://eloyfelix.github.io/uspto-chem-2025/grants/09/I20250902.json",
-        "https://eloyfelix.github.io/uspto-chem-2025/grants/09/I20250909.json"
+        "https://eloyfelix.github.io/uspto-chem-2025/grants/09/I20250909.json",
+        "https://eloyfelix.github.io/uspto-chem-2025/grants/09/I20250916.json"
       ]
     }
   }
