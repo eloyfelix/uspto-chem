@@ -5,6 +5,15 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>USPTO Chem 2025 Proof-of-concept</title>
+    
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZQZ9DFEXT6"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-ZQZ9DFEXT6');
+    </script>
 	<style>
 		body { font-family: Arial, sans-serif; margin: 2em; background: #f9f9f9; }
 		.container { background: #fff; padding: 2em; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.05); }
@@ -16,15 +25,26 @@
 <body>
 	<div class="container">
 		<h1>USPTO Chemical Compounds Extraction Proof-of-concept</h1>
-		<p>Extracted chemical compounds from USPTO <strong>CDX attachments</strong> (<strong>2001–2025</strong>), focussed on pharma‑related IPC/CPC classes <strong>C07, A61K, A61P, A01N</strong>. Molecules are parsed and saved as <strong>CXSMILES</strong> with <strong>RDKit</strong>.</p>
+		<p>Extracted chemical compounds from USPTO <strong>CDX attachments</strong> (<strong>2001–2025</strong>) using RDKit.</p>
 		<p>
 			<a href="https://eloyfelix.github.io/uspto-chem/contents.json" target="_blank">
 				Browse index (contents.json)
 			</a>
 		</p>
+
+		<h2>What's in here</h2>
 		<p>
-			Each weekly USPTO bulk release has a JSON listing patents/applications that include CDX attachments and match the pharma‑related classes above. Use the index to browse the weekly files.
+			Each week, the USPTO uploads two tar files: one for patent grants (Tuesday) and one for patent applications (Thursday). For each of the files, patents are filtered by IPC/CPC codes relevant to the pharmaceutical sector, first, patent metadata is extracted; then every <code>.CDX</code> attachment is located and compounds are extracted alongside the metadata. Each <a href="https://data.uspto.gov/bulkdata/datasets/APPDT?fileDataFromDate=2025-10-08&fileDataToDate=2025-10-09" target="_blank" rel="noopener noreferrer">USPTO tar file</a> produces a corresponding <a href="https://eloyfelix.github.io/uspto-chem-2025/applications/10/I20251009.json" target="_blank" rel="noopener noreferrer">JSON file</a> with the extracted data. Compounds are parsed and saved as <strong>CXSMILES</strong> with <strong>RDKit</strong>.
 		</p>
+
+		<h2>Focus IPC/CPC classes</h2>
+		<ul>
+			<li><strong>C07</strong> — Organic chemistry (Section C: Chemistry). Covers organic compounds and their synthesis, including heterocycles, sugars, peptides, etc.</li>
+			<li><strong>A61K</strong> — Preparations for medical, dental, or toilet purposes (Section A: Human necessities). Pharmaceutical compositions/formulations and ingredient categories.</li>
+			<li><strong>A61P</strong> — Specific therapeutic activity of chemical compounds or medicinal preparations. Indicates the medical indication (e.g., analgesic, antineoplastic); pairs with A61K.</li>
+			<li><strong>A01N</strong> — Preservation of bodies; biocides (disinfectants, pesticides, herbicides), pest control, and plant growth regulators (Section A: Agriculture/human necessities). Focuses on active agents and uses in these domains.</li>
+		</ul>
+
 	</div>
 </body>
 </html>
