@@ -2522,7 +2522,12 @@
         "https://eloyfelix.github.io/uspto-chem-2025/applications/11/I20251113.json",
         "https://eloyfelix.github.io/uspto-chem-2025/applications/11/I20251120.json",
         "https://eloyfelix.github.io/uspto-chem-2025/applications/11/I20251127.json"
+      ],
+      "12":[
+        "https://eloyfelix.github.io/uspto-chem-2025/applications/12/I20251204.json",
+        "https://eloyfelix.github.io/uspto-chem-2025/applications/12/I20251204_r1.json"
       ]
+
     }
   },
   "grants": {
