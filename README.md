@@ -1,6 +1,6 @@
 # uspto-chem
 
-USPTO Chemical Compounds Extraction Proof-of-concept
+USPTO Chemical Compounds Extraction
 
 Extracted chemical compounds from USPTO .CDX attachments since 2001 using RDKit.
 
