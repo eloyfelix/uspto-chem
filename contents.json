@@ -4836,7 +4836,14 @@
         "https://eloyfelix.github.io/uspto-chem-2025/grants/12/I20251209.json",
         "https://eloyfelix.github.io/uspto-chem-2025/grants/12/I20251216.json",
         "https://eloyfelix.github.io/uspto-chem-2025/grants/12/I20251223.json",
-        "https://eloyfelix.github.io/uspto-chem-2025/grants/12/I20251230.json"
+        "https://eloyfelix.github.io/uspto-chem-2025/grants/12/I20251230.json",
+        "https://eloyfelix.github.io/uspto-chem-2025/grants/12/I20251230_r1.json",
+        "https://eloyfelix.github.io/uspto-chem-2025/grants/12/I20251230_r2.json"
+      ]
+    },
+    "2026": {
+      "01": [
+        "https://eloyfelix.github.io/uspto-chem-2026/grants/01/I20260106.json"
       ]
     }
   }
